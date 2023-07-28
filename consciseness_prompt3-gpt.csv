@@ -1,0 +1,31 @@
+sshleifer/distilbart-cnn-12-6,mrm8488/bert-small2bert-small-finetuned-cnn_daily_mail-summarization,microsoft/prophetnet-large-uncased-cnndm,t5-small,facebook/bart-large-cnn,google/pegasus-cnn_dailymail
+0.9,0.5,0.5,0.75,0.75,0.66
+"The summary contains statements that are entailed by the source document, so it would receive a score of 1 for consistency.",0.75,0.75,0.6,0.75,0.75
+0.8,0.75,0.8,0.75,0.75,1
+0.8,0.8,0.5,0.5,0.8,0.75
+0.75,0.75,0.9,0.5,0.5,0.5
+0.75,0.7,0.5,0.8,0.75,0.75
+0.75,Score: 0.5,0.8,0.75,0.75,0.6
+0.75,0.75,0.5,0.5,0.75,0.66
+0.5,0.5,0.8,0.75,0.75,0.8
+0.8,0.8,0.5,0.75,0.75,0.75
+0.75,0.75,0.5,0.75,0.75,0.75
+0.75,0.75,0.75,0.9,0.9,"The summary contains statements that are entailed by the source document. Therefore, the score for consistency would be 1."
+0.75,Score: 0.8,0.5,0.8,0.75,Score: 0.6666666666666666
+0.5,0.8,1,0.5,0.75,1
+0.75,0.5,0.5,0.7,0.8,0.75
+0.8,No evaluation possible.,0.3,0,0.5,0.5
+0.8,0.75,0.8,0.8,0.75,0.75
+0.8,0.6,0.75,0.9,0.8571428571428571,1
+0.8,The summary scores a 0.8 in terms of consistency.,0.7,0.8,0.8,0.8
+0.75,0.75,0.3,0.6,0.75,"I would score the summary as 0.75 for consistency. The summary includes most of the main points from the article, such as the attack by rebel troops, the displacement of Congolese refugees, the difficulties caused by torrential rain, and the number of people forced from their homes in the past year. However, it does not mention the specific camps that were affected or the conflicting reports about who was responsible for the attack."
+0.75,0.75,0.8,0.75,Score: 0.75,0.8
+0.75,0.8,0.8,0.5,0.8,0.66
+"The summary includes three statements from the source article. However, one of the statements is incorrect. The article states that Reuters was first in Europe with news of President Lincoln's assassination in 1865, but the summary incorrectly states that this occurred in 1883. Therefore, the summary receives a consistency score of 0.67 (2 out of 3 statements are consistent).",0.75,0.5,0.7,0.8,0.5
+0.8,0.8,0.5,0.8,0.75,0.75
+0.75,0.5,0.6,0.75,0.75,The summary receives a score of 1 for consistency.
+The score for consistency of this summary would be 0.75.,0.75,0.8,0.75,"The summary contains 4 out of 8 statements from the source article. Therefore, the consistency score would be 4/8 = 0.5.",0.67
+0.9,0.9,0.9,0.8,0.75,0.8
+0.8,0.75,0.5,0.6,0.6,0.75
+The summary receives a consistency score of 0.6667.,0.8,0.75,0.8,0.75,0.9
+0.8,0.75,0.8,0.8,0.75,0.8
