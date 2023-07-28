@@ -1,0 +1,31 @@
+sshleifer/distilbart-cnn-12-6,mrm8488/bert-small2bert-small-finetuned-cnn_daily_mail-summarization,microsoft/prophetnet-large-uncased-cnndm,t5-small,facebook/bart-large-cnn,google/pegasus-cnn_dailymail
+0.9,0.8,0.9,0.5,0.9,0.8
+0.85,0.3,0.9,0.8,0.8,0.8
+0.8,0.9,0.1,0.7,0.8,0.9
+0.8,0.6,0.85,0.3,0.65,0.8
+0.7,0.75,0.8,0.8,0.9,0.7
+0.75,0.6,0.7,0.5,0.8,0.8
+0.75,0.9,0.8,0.7,No evaluation possible.,0.8
+0.75,0.75,0.9,0.9,0.8,0.8
+0.8,0.6,0.8,0.9,0.8,0.7
+1,0.85,0.9,0.8,0.7,0.7
+0.8,0.9,0.7,0.8,0.9,0.5
+0.85,0.7,0.8,0.6,0.8,0.75
+0.75,0.2,0.7,0.8,0.8,0.85
+0.75,0.8,0.5,0.8,0.7,0.65
+0.8,0.8,0.2,0.8,0.9,0.95
+0.8,0.75,0.6,0.6,0.75,0.8
+0.85,0.8,0.8,0.9,0.8,0.75
+0.75,0.6,0.8,0.8,0.7,0.8
+0.9,0.7,0.95,0.7,0.9,0.9
+0.7,0.9,0,0.7,0.8,0.75
+0.8,0.7,0.6,0.7,0.9,0.9
+0.9,0.8,0.7,0.6,0.8,0.75
+0.3,0.9,0.1,0.5,0.9,"The points mentioned in the summary are accurate and clear. The summary provides a brief overview of Reuters' founding, its role in transmitting stock market quotations, and its current global presence. The sentences are easily understandable and would be clear to the target audience. Therefore, the score for readability would be 1."
+0.8,0.6,0.95,0.8,0.75,0.8
+0.8,0.5,0.8,0.8,0.8,0.9
+0.8,0.9,0.7,0.5,0.8,0.6
+0.8,0.9,0.9,0.7,0.9,0.9
+0.75,0.8,0.5,0.6,0.9,0.8
+0.9,0.6,0.8,0.7,0.9,0.8
+0.8,0.85,0.9,0.9,0.9,0.8

@@ -1,0 +1,48 @@
+sshleifer/distilbart-cnn-12-6,mrm8488/bert-small2bert-small-finetuned-cnn_daily_mail-summarization,microsoft/prophetnet-large-uncased-cnndm,t5-small,facebook/bart-large-cnn,google/pegasus-cnn_dailymail
+0.9,0.6,0.5,0.5,0.6,0.8
+0.5,0.5,0.5,0.4,0.5,0.75
+0.6,0.8,"1. The summary does not provide a clear structure or flow of ideas. It jumps from one sentence to another without any logical progression.
+2. The summary does not include all the important information from the article, such as the fact that Medina Caracas was killed in an air attack on a guerrilla encampment.
+3. The summary lacks coherence and is difficult to understand and follow.
+
+Overall, I would score the coherence of the summary as 0.","I would score this summary a 0.5 for coherence. While it includes some key information from the article, it lacks a clear structure and flow of ideas. The summary jumps between different aspects of the story without providing a clear narrative or logical progression.",0.75,"I would score the coherence of this summary as 0.7. The summary has a clear structure and flow of ideas, making it easy to understand and follow. However, it could be improved by providing more information about FARC and its history, as well as including details about the specific air attack and the involvement of the Colombian military."
+0.7,0.3,0.6,0.8,0.8,0.8
+0.9,0.5,"The summary does not have a clear structure and flow of ideas. It jumps from the signing of Carlos Alberto to unrelated information about other Brazilian players joining the Bundesliga. Additionally, the summary is incomplete and lacks important details about Carlos Alberto's career and previous clubs. 
+
+Score: 0.2",0.5,0.9,0.8
+0.5,0.5,0.5,0.75,0.5,0.8
+0.8,0.8,Coherence Score: 0.8,0.7,0.5,0.5
+0.8,"The summary has a clear structure and flow of ideas, making it easy to understand and follow. I would score it a 1.",0.5,0.8,0.8,Coherence score: 0.6
+Score: 0.8,0.5,0.8,0.6,0.8,0.9
+0.8,0.5,0,0.4,0.8,0.5
+0.5,0.5,0.7,0.5,0.7,0.8
+0.8,Score: 0.8,0.5,0.6,0.75,0.5
+0.8,0.7,0.2,0.7,Coherence Score: 0.7,0.75
+0.6,0.7,0.5,0.5,0.8,0.8
+Score: 0.8,0.5,0,0.8,0.7,0.8
+Score: 0.5,0.4,0.2,0.5,0.7,0.5
+0.7,0.75,0,0.6,0.8,0.5
+Score: 0.5,0.5,0.3,0.3,0.8,0.75
+0.8,0.8,0.2,0.3,0.7,0.9
+0.5,0.75,0.1,No evaluation possible.,0.8,0.2
+0,0.7,0.5,"I would score the coherence of this summary as 0.5. While the summary includes the key points of the article, the flow of ideas is not clear and there is no clear structure to the summary. The points are presented in a disjointed manner, making it slightly difficult to understand and follow.",0.8,0.6
+0.9,0.4,0.2,0.7,0.75,0.5
+Score: 0.5,0.9,0.5,0.5,0.5,0.5
+0.8,Score: 0.5,0.5,0.8,0.8,0.8
+0.8,0.6,"1. The summary does not include all the information from the article, as it only mentions the partnership starting as a single shop on Oxford Street in London.
+2. The summary lacks coherence as it does not provide a clear structure or flow of ideas.
+3. The summary is difficult to understand and follow due to its fragmented nature.
+
+Overall, I would score the coherence of the summary as 0.","I would score this summary a 0.5 for coherence. While it does mention key points from the article, such as the history of the partnership, the number of department stores owned, and the bonus structure, the summary lacks a clear structure and flow of ideas. The information is presented in a disjointed manner without any logical progression or connection between the points.",0.8,0.8
+0.8,0.7,0.5,0.7,"- Qualcomm was founded in 1985 by seven communications industry veterans.
+- One of Qualcomm's first products was OmniTRACS, the largest satellite-based commercial mobile system for the transportation industry.
+- Qualcomm is a member of the S&P 500 Index and Fortune 500.
+- The company has been listed among Fortune's ""100 Best Companies to Work For in America.""
+
+Coherence Score: 0.8","Coherence score: 0.5
+
+The summary provides some information about the company's founding, revenue, and recognition by Fortune's ""100 Best Companies to Work For in America"" list. However, the summary lacks a clear structure and flow of ideas. It jumps from the founding of the company to its annual revenue without any logical connection. Additionally, it does not mention Qualcomm's patent portfolio or its position as a member of the S&P 500 Index, which are mentioned in the article."
+0.75,0.8,0.7,0.7,0.8,0.8
+0.8,0.8,0.75,0.5,0.7,0.5
+"The summary has a clear structure and flow of ideas, making it easy to understand and follow. I would score it a 1.",0.8,0.2,0.75,0.5,0.8
+0.8,0.7,0.5,0.75,0.85,0.8

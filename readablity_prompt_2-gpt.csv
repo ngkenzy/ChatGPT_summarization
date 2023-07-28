@@ -1,0 +1,956 @@
+sshleifer/distilbart-cnn-12-6,mrm8488/bert-small2bert-small-finetuned-cnn_daily_mail-summarization,microsoft/prophetnet-large-uncased-cnndm,t5-small,facebook/bart-large-cnn,google/pegasus-cnn_dailymail
+"Yes
+
+Reasoning: The summary includes the main points of the article, such as Daniel Radcliffe turning 18 and gaining access to his fortune, his plans to not spend it extravagantly, and the mention of his earnings being held in a trust fund. The sentences are clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary includes information about Daniel Radcliffe's plans to not spend his money on extravagant things.
+- It mentions that his earnings from the first five Potter films have been held in a trust fund.
+- It states that he will reprise the role in the last two films.
+- It mentions the film ""Harry Potter and the Order of the Phoenix"" without providing any additional information.","Yes
+
+Reasoning: The summary accurately captures the main point of the article, which is that Daniel Radcliffe will gain access to a reported £20 million fortune as he turns 18. The sentence is clear and easily understandable.","Step 1: Identify the main points in the summary:
+- The actor has no plans to spend his money on fast cars, drink, and celebrity parties.
+- He will be able to gamble, buy a drink, and watch a horror film.
+- His agent and publicist have no comment on his plans.
+- His latest movie is breaking records.
+
+Step 2: Compare the main points to the article:
+- The first point is mentioned in the article when the actor says he won't be extravagant.
+- The second point is mentioned in the article when it states he can now gamble, buy a drink, and watch a horror film.
+- The third point is mentioned in the article when it says his agent and publicist had no comment on his plans.
+- The fourth point is mentioned in the article when it says his latest movie is breaking records.
+
+Step 3: Assess the readability of the summary:
+The summary accurately captures the main points of the article and presents them in a clear and understandable manner. It is readable.
+
+Answer: Yes.","Step 1: The summary includes the main points of the article, such as Daniel Radcliffe turning 18 and gaining access to his fortune from the Harry Potter films. The mention of the trust fund is also included.
+
+Step 2: The sentences in the summary are clear and easily understandable to the target audience. They use simple language and do not contain any complex or confusing terms.
+
+Step 3: Yes. The summary is readable with the corresponding article. It includes the main points in a clear and understandable manner.","Yes.
+
+Reasoning:
+- The summary includes the main points of the article, such as Daniel Radcliffe gaining access to a £20 million fortune and his statement about not wasting his money.
+- The sentences in the summary are clear and easily understandable to the target audience."
+"Yes, the summary is readable with the corresponding article. The summary includes the main points of the article, such as the removal of polyps from President Bush's colon, the size of the polyps, the previous colonoscopy results, and the president's current condition. The sentences are clear and easily understandable to the target audience.","The summary is not readable with the article. 
+
+Reasoning:
+1. The summary starts with ""new"" which is not a clear and understandable sentence.
+2. The summary mentions that Bush's last colonoscopy was in June 2002, but this information is not mentioned in the article.
+3. The summary mentions that Vice President Dick Cheney assumed presidential power at 9:21 a.m. on Saturday, but this information is not mentioned in the article.
+4. The summary mentions that Bush is in good humor and will resume his activities at Camp David, which is mentioned in the article.
+5. The summary mentions that President's first lady Laura Bush was celebrating her mother's birthday, but this information is not mentioned in the article.","Yes
+
+The summary accurately captures the main points of the article. It mentions that five small polyps were removed from President Bush's colon and states that none of them appeared worrisome. The summary is clear and easily understandable to the target audience.","Step 1: The summary includes the information that ""none appeared worrisome"" according to a White House spokesman. This information is clearly stated in the article.
+
+Step 2: The summary mentions that the president will resume his activities at Camp David. This information is also stated in the article.
+
+Step 3: The summary states that a colonoscopy is the most sensitive test for colon cancer and rectal cancer. This information is not explicitly stated in the article, but it is mentioned that a colonoscopy is the most sensitive test for polyps, which can become cancerous. While not an exact match, this information is related to the topic of colon cancer and can be considered understandable to the target audience.
+
+Based on the above analysis, the summary is readable with the corresponding article.","Step 1: The summary accurately states that doctors removed five small polyps from President Bush's colon. This information is clearly stated in the article.
+
+Step 2: The summary correctly mentions that all the polyps were small and less than a centimeter in diameter. This information is also clearly stated in the article.
+
+Step 3: The summary accurately states that Bush reclaimed presidential power at 9:21 a.m. after about two hours. This information is mentioned in the article.
+
+Step 4: The summary correctly mentions that Vice President Dick Cheney assumed presidential power during the procedure. This information is stated in the article.
+
+Based on the step-by-step analysis, the summary accurately represents the main points of the article and is readable to the target audience. 
+
+Answer: Yes","The summary accurately conveys the main points of the article. It mentions that five small polyps were removed from President Bush's colon and that they were not worrisome. It also states that Bush had polyps removed during colonoscopies before becoming president. The summary does not include any unnecessary or confusing information, and the sentences are clear and easily understandable. Therefore, the summary is readable with the corresponding article. Yes."
+"Yes
+
+Reasoning:
+- The summary includes the key details mentioned in the article, such as the fugitive status of Tomas Medina Caracas, his affiliation with FARC, and the location of the camp where he was tracked down.
+- The summary uses clear and concise language that is easily understandable to the target audience.","The summary is readable with the corresponding article. 
+
+Reasoning:
+- The summary accurately mentions that Tomas Medina Caracas was a key rebel commander and fugitive from a U.S. drug trafficking indictment, which is mentioned in the article.
+- The summary correctly states that Medina Caracas was indicted in the United States along with two other FARC commanders in November 2002, which is also mentioned in the article.
+- The summary accurately mentions that Medina Caracas commanded FARC's 16th Front in the southern departments of Vichada and Guainia, which is mentioned in the article.
+- The summary correctly states that Medina Caracas is accused of conspiring to kidnap oil workers from Venezuela in 1997, which is mentioned in the article.","No, the summary is not readable with the corresponding article. The summary is incomplete and does not provide clear information about the key points of the article, such as the death of the rebel commander and his involvement in drug trafficking. It lacks proper sentence structure and does not convey the main details in a clear and understandable manner.","The summary is readable with the corresponding article.
+
+Reasoning: 
+- The summary accurately states that ""El Negro Acacio"" was a member of the high command of the guerrilla encampment, which is mentioned in the article as him being a key rebel commander.
+- The summary also mentions that he was charged with conspiracy to import cocaine into the United States, which is mentioned in the article as him being charged by the U.S. Justice Department.
+- Lastly, the summary includes that he helped manage the group's cocaine trafficking network, which is mentioned in the article as him managing the rebel group's sales of cocaine to international drug traffickers.
+
+Therefore, the summary accurately represents the main points of the article in a clear and understandable manner.","Yes
+
+Reasoning:
+- The summary accurately captures the main points of the article.
+- It uses simple language and avoids technical terms.
+- The sentence structure is clear and easy to understand.","Yes
+
+Reasoning:
+- The summary provides a clear and concise overview of the article.
+- It includes the key information about Tomas Medina Caracas being a fugitive, being killed in an air attack on a guerrilla encampment, and being alleged to have managed the FARC's cocaine trafficking network.
+- The sentences are clear and easily understandable to the target audience."
+"Yes
+
+Reasoning:
+- The summary provides a clear and concise overview of the main points covered in the article.
+- It includes information about the discovery of the rocket launcher tube, the fact that it is no longer operable and not a hazard, and the uncertainty about whether it has been fired.
+- The language used in the summary is simple and does not contain any complex or technical terms that might confuse the target audience.","The summary is not readable with the corresponding article. 
+
+1. The summary incorrectly states that Niranjan Desai is 20 years old, when the article does not mention her age.
+2. The summary incorrectly states that the launcher has been turned over to the U.S. Army officials at the 754th Ordnance Disposal Unit at Fort Monmouth, when the article states that it has been turned over to the 754th Ordnance Company, an explosive ordnance disposal unit.
+3. The summary fails to mention that the launcher is no longer operable and not considered to be a hazard to public safety, as stated in the article.
+4. The summary incorrectly states that the nearest military base, Fort Dix, is at least 70 miles from Jersey City, when the article states that it is more than 70 miles away.
+5. The summary fails to mention that the Joint Terrorism Task Force division of the FBI and Jersey City police are investigating the origin of the rocket launcher and the circumstances that led to its appearance on residential property.
+6. The summary does not provide any information about the appearance or features of the rocket launcher, which are mentioned in the article.","Yes, the summary is readable with the corresponding article. The summary provides a clear and concise overview of the article, stating that an empty AT4 anti-tank rocket launcher tube was found on the front lawn of a home in New Jersey.","The summary is readable with the corresponding article. 
+
+Reasoning:
+1. The summary mentions the main point of the article, which is the discovery of a 20-year-old AT4 anti-tank rocket launcher tube on someone's lawn.
+2. It also includes the information that the device has been turned over to an explosive disposal unit.
+3. Lastly, it states that there is no indication that the launcher had been fired recently. 
+
+All of these points are clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary accurately captures the main points of the article, including the discovery of a rocket launcher tube on a front lawn in Jersey City, New Jersey.
+- The summary mentions that the rocket launcher tube is a one-time-use device and clarifies that it is no longer operable and not a hazard to public safety, which are details mentioned in the article.
+- The language used in the summary is clear and easily understandable to the target audience.","Step 1: The summary mentions that the launcher has been turned over to U.S. Army officials at Fort Monmouth, New Jersey. This information is mentioned in the article. 
+
+Step 2: The summary states that the 20-year-old AT4 anti-tank rocket launcher tube was found on a New Jersey woman's lawn. This information is mentioned in the article.
+
+Step 3: The summary mentions that the launcher ""is no longer operable and not considered to be a hazard,"" according to the police. This information is mentioned in the article.
+
+Step 4: The summary states that the device is basically a shoulder-fired, direct-fire weapon used against ground targets. This information is mentioned in the article.
+
+Conclusion: The summary accurately and clearly represents the main points of the article. The sentences used in the summary are clear and easily understandable to the target audience.
+
+Answer: Yes"
+"Yes, the summary is readable with the corresponding article. 
+
+Reasoning:
+1. The summary includes the main point of the article, which is that Carlos Alberto has joined Werder Bremen for a club record fee.
+2. It also mentions his previous success at FC Porto under Jose Mourinho and his goal in the Champions League final victory against Monaco in 2004.
+3. The summary adds that Carlos Alberto has been on loan with his first club Fluminense since January this year.","The summary is not readable with the corresponding article. 
+
+Reasoning:
+1. The summary mentions that Carlos Alberto joined Werder Bremen for a record fee, which is mentioned in the article.
+2. The summary mentions that Carlos Alberto scored in FC Porto's Champions League final victory against Monaco in 2004, which is mentioned in the article.
+3. The summary mentions that the Brazilian scored in the Champions League last year, which is not mentioned in the article.","Yes.
+
+Reasoning:
+- The summary accurately states that Brazilian defender Carlos Alberto has signed for Bundesliga club Werder Bremen.
+- The summary includes the important detail that Carlos Alberto is 22 years old.
+- The summary does not include any additional information or details that are not mentioned in the article.","Yes.
+
+Reasoning:
+- The summary provides a clear and concise overview of the main points in the article.
+- It mentions that Carlos Alberto has joined Werder Bremen for a club record fee, specifying the amount in euros and dollars.
+- It highlights his previous success in scoring in FC Porto's Champions League final victory in 2004.
+- It mentions his career starting with Fluminense and their success in winning the Campeonato Carioca in 2002.","Yes.
+
+Reasoning:
+- The summary accurately states that Carlos Alberto has joined Werder Bremen for a club record fee of $10.7 million, which is mentioned in the article.
+- The summary mentions that Carlos Alberto scored in FC Porto's Champions League final victory in 2004, which is also mentioned in the article.
+- The summary correctly states that Carlos Alberto is the third top Brazilian player to join the German league in three days, which is mentioned in the article.
+- The sentences in the summary are clear and easily understandable to the target audience.","Yes, the summary is readable with the corresponding article. 
+
+Step 1: The summary accurately states that Brazilian striker Carlos Alberto has joined Werder Bremen from FC Porto. This is mentioned in the article as well.
+
+Step 2: The summary correctly mentions that Carlos Alberto joins for a club record fee of $10.7 million. This is also mentioned in the article.
+
+Step 3: The summary states that Carlos Alberto has been on loan at Fluminense since January. This information is present in the article as well.
+
+Overall, the summary captures the main points of the article in a clear and easily understandable manner."
+"Step 1: Vice President Dick Cheney will serve as acting president briefly Saturday.
+The sentence is clear and easily understandable. It states that Vice President Dick Cheney will temporarily take on the role of president on Saturday. 
+
+Step 2: White House spokesman Tony Snow is undergoing chemotherapy for colon cancer.
+The sentence is clear and easily understandable. It states that Tony Snow, the White House spokesman, is currently undergoing chemotherapy for colon cancer. 
+
+Step 3: Bush's last colonoscopy was in June 2002, and no abnormalities were found, White House says.
+The sentence is clear and easily understandable. It states that President Bush had a colonoscopy in June 2002, and no abnormalities were found, according to the White House. 
+
+Step 4: Procedure is the most sensitive test for colorectal cancer, rectal cancer and polyps.
+The sentence is clear and easily understandable. It states that the procedure mentioned (colonoscopy) is considered the most sensitive test for detecting colorectal cancer, rectal cancer, and polyps. 
+
+Conclusion: The summary is readable with the corresponding article. Yes","Reasoning:
+
+1. The summary includes the main points of the article, such as Vice President Dick Cheney serving as acting president while President Bush undergoes a colonoscopy, the expected duration of the procedure, and the fact that no abnormalities were found in Bush's previous colonoscopy in 2002.
+2. The summary also mentions that Bush is undergoing chemotherapy for cancer that began in his colon, which is not explicitly stated in the article but can be inferred from the sentence ""Snow himself is undergoing chemotherapy for cancer that began in his colon and spread to his liver.""
+3. However, the summary does not mention that the colonoscopy will be conducted by a multidisciplinary team from the National Naval Medical Center or the recommendation from the American Cancer Society regarding colorectal cancer screenings.
+
+Based on these reasons, the summary is not fully readable with the corresponding article.","The summary sentence is incomplete and does not provide enough information for the target audience to understand what is happening. It mentions Vice President Dick Cheney serving as acting president while President Bush has a colonoscopy, but it does not explain why or provide any additional details. Additionally, the sentence ends abruptly with a punctuation mark. 
+
+No","Step 1: The summary includes the key information from the article, such as the recommendation for a repeat colonoscopy and the importance of surveillance for colon cancer.
+Step 2: The sentences in the summary are clear and easily understandable.
+Step 3: The summary does not include any technical or complex language that may confuse the target audience.
+Step 4: The summary is concise and captures the main points of the article.
+
+Based on these steps, the answer is yes, the summary is readable with the corresponding article.","1. The summary accurately mentions that Vice President Dick Cheney will serve as acting president briefly on Saturday. This information is clearly stated in the article.
+2. The summary states that President Bush is scheduled to have a routine colonoscopy at Camp David, Maryland. This information is also clearly stated in the article.
+3. The summary mentions that no abnormalities were found during Bush's last procedure in June 2002. This information is stated in the article, indicating that the summary is accurate.
+4. The summary states that White House spokesman Tony Snow is undergoing chemotherapy for colon cancer. This information is not mentioned in the article, so the summary includes additional information that is not present in the source.
+
+Based on the above reasoning, the answer is no.","Reasoning:
+
+1. The summary states that President Bush will have a routine colonoscopy on Saturday. This information is mentioned in the article.
+
+2. The summary mentions that Vice President Dick Cheney will serve as acting president. This information is also mentioned in the article.
+
+3. The summary states that Bush's last colonoscopy was in June 2002. This information is mentioned in the article.
+
+4. The summary mentions that a colonoscopy is the most sensitive test for colon cancer, rectal cancer, and polyps. This information is also mentioned in the article.
+
+Based on the above reasoning, the summary is readable with the corresponding article as it includes accurate and easily understandable information from the article. 
+
+Answer: Yes"
+"Step 1: Compare the summary sentence to the corresponding information in the article.
+- The first sentence of the summary mentions that about 2,000 customers were without power in the San Francisco area. This information is mentioned in the article: ""The quake left about 2,000 customers without power.""
+- The second sentence of the summary mentions that the police received a spike in calls, mostly of inquiry, with no injuries or damage reported. This information is also mentioned in the article: ""We had quite a spike in calls, mostly calls of inquiry, none of any injury, none of any damage that was reported,"" said Capt. Al Casciato of the San Francisco police.
+- The third sentence of the summary mentions the location and depth of the earthquake, which is also mentioned in the article: ""The quake was centered about two miles east-northeast of Oakland, at a depth of 3.6 miles.""
+- The fourth sentence of the summary mentions that the shaking lasted about 50 seconds, which is mentioned in the article: ""The shaking lasted about 50 seconds, said CNN meteorologist Chad Myers.""
+
+Step 2: Evaluate the clarity and understandability of the summary sentence.
+- The summary sentence is clear and easily understandable. It accurately conveys the main points of the article in a concise manner.
+
+Based on the above analysis, the summary is readable with the corresponding article. Yes.","Step 1: Identify the main points in the article:
+- Magnitude 4.2 earthquake in San Francisco
+- 2,000 customers without power
+- Quake centered two miles east-northeast of Oakland, at a depth of 3.6 miles
+
+Step 2: Compare the main points in the article with the summary:
+- The summary includes the main points of the article, but the language used is fragmented and lacks clarity. The sentence structure is not well-formed, and some words are missing or incorrectly used.
+
+Step 3: Consider the target audience and their ability to understand the summary:
+- The target audience may have a basic understanding of earthquakes and their effects, but they may not be familiar with technical terms or specific locations such as Oakland. The summary should be clear and easily understandable to this audience.
+
+Based on the above analysis, the summary is not readable with the corresponding article as it does not effectively communicate the main points in a clear and understandable manner.","The summary is readable with the corresponding article. 
+
+Reasoning:
+- The summary accurately mentions the key details of the article, including the magnitude 4.2 earthquake in the San Francisco area at 4:42 a.m. PT.
+- The sentence structure is clear and the language used is simple and easily understandable.
+- The summary does not include any additional information or use complicated terms, making it accessible to the target audience.","Step 1: Analyze the summary sentence by sentence.
+- ""quake left about 2,000 customers without power, spokesman says"" - This sentence is clear and easily understandable. It provides information about the effects of the earthquake.
+- ""magnitude 4.2 is considered ""light,"" which usually causes minimal damage"" - This sentence is clear and easily understandable. It explains the classification of the earthquake and its potential impact.
+- ""quakes are felt indoors and may break dishes, windows and overturn unstable objects"" - This sentence is clear and easily understandable. It describes the potential effects of a magnitude 4.2 earthquake.
+
+Step 2: Consider the target audience.
+The target audience is not specified, but assuming it is the general public, the sentences in the summary are written in a clear and easily understandable manner.
+
+Conclusion: Yes, the summary is readable with the corresponding article.","Step 1: Comparing the summary to the article, it includes the information about 2,000 customers without power, the location of the quake, and the duration of the shaking. 
+Step 2: The sentence structure and vocabulary used in the summary are clear and easily understandable to the target audience.
+Step 3: Yes, the summary is readable with the corresponding article.","Step by step reasoning:
+1. The summary mentions that about 2,000 customers were without power, which is mentioned in the article as well.
+2. The summary includes a quote from a San Francisco police captain saying ""It was fairly mild,"" which is also mentioned in the article.
+3. The summary mentions the location of the quake as two miles east-northeast of Oakland at a depth of 3.6 miles, which is also mentioned in the article.
+
+Based on this reasoning, the summary accurately captures the main points from the article and is readable to the target audience.
+
+Answer: Yes"
+"Step 1: The article provides information about a bomb explosion in Batna, Algeria, where 14 people were killed and 60 others were wounded.
+- The summary includes the information about the explosion occurring in Batna, Algeria, and the number of casualties. (Yes)
+
+Step 2: The article mentions that the explosion occurred 20 meters from a mosque in Batna.
+- The summary includes the information about the explosion occurring near a mosque in Batna. (Yes)
+
+Step 3: The article states that it was unclear if the bomb was caused by a suicide bomber or if it was planted.
+- The summary does not include this information. (No)
+
+Step 4: The article mentions that a suspect person attempted to go beyond the security cordon but escaped immediately after the bomb exploded.
+- The summary includes this information about the suspect escaping after the explosion. (Yes)
+
+Step 5: The article states that President Bouteflika visited the wounded in the hospital before returning to the capital.
+- The summary does not include this information. (No)
+
+Step 6: The article mentions that Algeria faces a continuing Islamic insurgency, according to the CIA.
+- The summary includes this information about Algeria facing an Islamic insurgency. (Yes)
+
+Based on the above analysis, the summary is missing some information from the article but still provides a clear and easily understandable overview of the main points. Therefore, the summary is readable with the corresponding article.","Step 1: The summary includes the statement made by Algeria's Interior Minister Noureddine Yazid Zerhouni. 
+Yes, this statement is mentioned in the article.
+
+Step 2: The summary mentions that the bomb went off 15 minutes before the expected arrival of President Abdel-Aziz Bouteflika.
+Yes, this information is mentioned in the article.
+
+Step 3: The summary states that Algeria faces a continuing Islamic insurgency, according to the CIA.
+Yes, this information is mentioned in the article.
+
+Step 4: The summary repeats that Algeria is facing a continued Islamic insurgency.
+Yes, this is a repetition of the previous point mentioned in the summary.
+
+The summary is readable with the corresponding article.","Step 1: Analyzing the sentence structure
+The sentence structure of the summary is clear and concise. It provides a brief and straightforward statement about the bomb explosion that occurred before the arrival of Algeria's president. 
+
+Step 2: Analyzing the vocabulary
+The vocabulary used in the summary is simple and easily understandable. It does not contain any jargon or complex terms that may confuse the target audience.
+
+Step 3: Comparing the summary to the article
+The summary accurately reflects the main event described in the article - a bomb explosion that happened 15 minutes before the expected arrival of Algeria's president. It also mentions the number of casualties (at least 14 people) which is mentioned in the article.
+
+Conclusion:
+The summary is readable with the corresponding article. It effectively captures the main event and is clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary includes the key information from the article, such as the number of people killed and wounded, the timing of the bomb explosion, and the uncertainty about whether it was caused by a suicide bomber.
+- The sentences are clear and concise, making them easily understandable to the target audience.","Step 1: The summary includes the key information from the article, such as the number of casualties and the location of the attack.
+
+Step 2: The summary uses clear and concise language to convey the information.
+
+Step 3: The summary does not include any complex or technical terms that may be difficult for the target audience to understand.
+
+Based on these steps, the summary is readable with the corresponding article. Answer: Yes.","Yes
+
+Reasoning:
+- The summary includes key information from the article, such as the timing of the bomb explosion and the uncertainty of whether it was caused by a suicide bomber or if it was planted.
+- The mention of Algeria facing a continuing Islamic insurgency, according to the CIA, provides additional context to the situation.
+- The sentences in the summary are concise and straightforward, making it easily understandable for the target audience."
+"The summary is readable with the corresponding article. 
+
+Reasoning:
+- The summary accurately mentions that David Beckham has started a five-year contract with the Los Angeles Galaxy team, which is mentioned in the article.
+- The summary also mentions that Beckham joined the Galacticos of Madrid, which is mentioned in the article.
+- The summary states that Beckham will reveal his new shirt number on Friday, which is mentioned in the article.
+- The summary mentions that CNN will look back at Beckham's life and his fulfillment of playing for Manchester United, which is mentioned in the article.
+
+Therefore, the summary includes key points from the article and is clear and easily understandable to the target audience.","The summary is readable with the corresponding article. The sentences used in the summary are clear and easily understandable to the target audience. They capture key points from the article such as Beckham's rise to football stardom, his role as a fashion icon and global phenomenon, and his partnerships with Reggie Bush and Motorola.","Yes, the summary is readable with the corresponding article. The summary accurately conveys that David Beckham has signed a five-year contract with the Los Angeles Galaxy. It is clear and easily understandable to the target audience.","Yes.
+
+Reasoning:
+The summary accurately captures the main points of the article, including Beckham's new contract with the Los Angeles Galaxy team and the exploration of his life and career. The language used in the summary is clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+The summary accurately captures the main points of the article. It mentions that David Beckham has started a five-year contract with the Los Angeles Galaxy, and that CNN's Becky Anderson explores Beckham's rise to football stardom. It also mentions that the article looks back at Beckham's life and includes a rare glimpse inside the David Beckham academy in L.A. The sentences are clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+The summary accurately captures the main points of the article. It mentions that Becky Anderson from CNN is examining the life and times of David Beckham, his new contract with the Galaxy, and how he and his family will adapt to life in Los Angeles. These points are clear and easily understandable to the target audience."
+"Yes
+
+Reasoning:
+- The summary accurately captures the main points of the article.
+- The sentences are clear and easily understandable to the target audience.
+- The summary provides a concise overview of the events described in the article.","Yes
+
+Reasoning:
+- The summary provides a clear and concise overview of the main points mentioned in the article.
+- The language used in the summary is simple and easily understandable.
+- The summary accurately reflects the information provided in the article.","The summary is not readable with the corresponding article. The summary is too brief and lacks specific information, making it difficult to understand for the target audience. It does not provide any context or details about the situation at Northern Rock or the reasons for customers emptying their accounts.","Yes.
+
+Reasoning:
+
+1. The summary includes the key information from the article, such as the Bank of England bailing out the mortgage bank and the customers lining up to withdraw cash.
+2. The summary also mentions that the mortgage bank heavily slashed profit forecasts, which is an important detail from the article.
+3. The summary mentions that customers ignored reassurances from the bank and the government, which is another important point from the article.
+4. The sentences in the summary are clear and easily understandable to the target audience.","Step 1: The summary states that savers at a leading UK mortgage bank are lining up to empty their accounts for a second day. This aligns with the information in the article that says long lines formed before counters opened at Northern Rock.
+
+Step 2: The summary mentions that Northern Rock was bailed out by the Bank of England after slashing profit forecasts. This is also mentioned in the article, which states that the bank was bailed out by the Bank of England after heavily slashing profit forecasts.
+
+Step 3: The summary states that shares in Northern Rock dropped up to 30 percent in Friday trading. This is confirmed in the article, which mentions that shares in Northern Rock dropped up to 30 percent in Friday trading.
+
+Step 4: The summary mentions that the British Bankers' Association has urged customers to ""calm down."" This is also mentioned in the article, which states that the British Bankers' Association has urged customers to ""calm down.""
+
+Based on this analysis, the summary is readable with the corresponding article.","The summary is readable with the corresponding article. 
+
+1. The first sentence of the summary accurately captures the main action of savers lining up to empty their accounts at a UK mortgage bank.
+2. The second sentence mentions that the bank was bailed out by the Bank of England after slashing profit forecasts, which is also stated in the article.
+3. The third sentence mentions the British Bankers' Association urging customers to ""calm down,"" which is also mentioned in the article.
+
+Therefore, the summary is clear and easily understandable for the target audience. Yes."
+"Yes
+
+Reasoning:
+- The summary includes the main information from the article, such as a contestant drowning in preparation for a TV survival show and the show being sponsored by Heineken's local unit.
+- The summary also mentions the location of the incident (Shere Hills Lake in Nigeria's Plateau State) and the fact that the show was scheduled to start on Thursday.
+- Additionally, the summary includes details about the prize for the winner, which is 5 million naira in cash, a four-wheel drive jeep, and clothes.","The summary is readable with the corresponding article. 
+
+Reasoning:
+- The summary includes the key information about Anthony Ogadje and the other contestants going to Shere Hills Lake to prepare for the ""Gulder Ultimate Search.""
+- The summary mentions the prize for the winner, which is 5 million naira in cash, a four-wheel drive jeep, and additional money to buy clothes.
+- The summary mentions that the winner could become an instant celebrity. 
+
+Overall, the summary captures the main points of the article and presents them in a clear and understandable manner.","Yes
+
+The summary accurately captures the main points of the article by stating that a contestant drowned during the television survival show in Nigeria, leading to its suspension. The inclusion of the contestant's name, Anthony Ogadje, adds clarity to the summary.","Step 1: The summary mentions that a contestant drowned in preparation for the ""Gulder Ultimate Search"" and that the contestant had gone to Shere Hills Lake in the hilly Plateau State. This information is clearly stated in the article.
+
+Step 2: The summary mentions that the winner was to receive 5 million naira (about $39,000) in cash, a four-wheel drive jeep, and another 500,000. This information is also clearly stated in the article.
+
+Step 3: The summary mentions that the winner could also have expected to become an instant celebrity. This information is implied in the article, as it mentions that the winner would attract sponsorship deals and become famous.
+
+Based on this analysis, the summary is readable with the corresponding article.","Step 1: The summary includes the main points of the article, such as the suspension of a Nigerian television survival show after a contestant drowned.
+
+Step 2: The summary provides the name of the contestant, Anthony Ogadje, and mentions that he and nine other contestants had gone to Shere Hills Lake.
+
+Step 3: The summary mentions the name of the television show, ""Gulder Ultimate Search,"" and states that it involves physical challenges for participants.
+
+Step 4: The summary states that broadcasting of the show was scheduled to start on Thursday.
+
+Based on these steps, the summary is readable with the corresponding article as it includes the key details in a clear and understandable manner.","Yes, the summary is readable with the corresponding article. The summary includes the main points of the article, such as the suspension of the television show, the drowning of a contestant named Anthony Ogadje, and the sponsorship of the show by Dutch brewer Heineken's local unit. The sentences are clear and easily understandable to the target audience."
+"Yes
+
+Reasoning: The summary accurately conveys the main points of the article, including the fact that Chelsea is waiting on John Terry's fitness for the Champions League match, Frank Lampard is ruled out with a thigh injury, and Michael Essien is expected to play. The sentence structure is clear and easily understandable.","Yes 
+
+Reasoning:
+- The summary includes the main point of the article, which is Chelsea waiting on the fitness of John Terry and Frank Lampard being ruled out.
+- The summary mentions that Terry suffered a broken cheekbone and that Grant will make a decision based on his training.
+- The summary also mentions that Michael Essien has been battling a leg injury but is expected to play.
+- The language used in the summary is clear and easily understandable to the target audience.","No, the summary is not readable with the corresponding article. The summary is incomplete and does not provide enough information for the target audience to understand the context of the article. It mentions that Chelsea is waiting on the fitness of John Terry, but does not provide any details about his injury or the upcoming match with Valencia.","Step 1: Analyze the sentences in the summary.
+- Sentence 1: ""John Terry tries out his protective mask during training for Chelsea on Tuesday.""
+- Sentence 2: ""The center-back suffered a broken cheekbone during 0-0 draw with Fulham.""
+- Sentence 3: ""Manager Avram Grant will see how he fares during training before making a decision on his availability.""
+
+Step 2: Compare the sentences in the summary with the sentences in the article.
+- Sentence 1 is a direct quote from the article.
+- Sentence 2 is a paraphrase of the information in the article.
+- Sentence 3 is a paraphrase of the information in the article.
+
+Step 3: Determine if the sentences in the summary are clear and easily understandable to the target audience.
+- Sentence 1 is clear and understandable as it directly states that John Terry is trying out his protective mask during training.
+- Sentence 2 is clear and understandable as it states that John Terry suffered a broken cheekbone during a specific match.
+- Sentence 3 is clear and understandable as it states that the manager will observe John Terry during training before deciding if he can play.
+
+Conclusion: The sentences in the summary are clear and easily understandable to the target audience.
+
+Answer: Yes","Yes, the summary is readable with the corresponding article. The summary includes key information from the article, such as Chelsea waiting on John Terry's fitness, Terry suffering a broken cheekbone, and Avram Grant evaluating Terry's condition during training. The sentences are clear and easily understandable to the target audience.","The summary accurately captures the main points of the article. It mentions that Chelsea is waiting on John Terry's fitness, that Terry trained with a face mask on after surgery, and that Frank Lampard has been ruled out of the game with a thigh injury. The sentences used in the summary are clear and easily understandable to the target audience. Therefore, the summary is readable with the corresponding article. Yes."
+"Yes
+
+Reasoning:
+- The summary includes the main points of the article, such as Francesco Totti threatening to quit the Italian Players Association and the Italian Football League’s decision to start the season on August 26.
+- The summary also includes a quote from Totti, highlighting his frustration with players not being listened to.
+- Lastly, the summary mentions that Serie A is one of the last major European leagues to start next season, providing additional context.","The summary is readable with the corresponding article. 
+
+Reasoning:
+- The summary includes the main points of the article, such as Francesco Totti threatening to quit the Italian Players Association and his complaint about Italian players not being listened to.
+- The summary also mentions the vote by the Italian Football League to start the season on August 26 and highlights that the Italian league is one of the last major European leagues to start next season.
+- The summary ends with a sentence that may not directly relate to the article, but it does not affect the overall readability of the summary. 
+
+Therefore, the summary is clear and easily understandable to the target audience.",No. The summary is not readable with the corresponding article. The summary is incomplete and does not provide enough information for the target audience to understand the context and details of Totti's threat to quit the Italian Players Association.,"Yes
+
+Reasoning:
+- The summary includes the main points of the article, such as Francesco Totti threatening to quit the Italian Players Association and the Italian Football League ignoring a request by Roberto Donadoni.
+- The sentences in the summary are clear and easily understandable to the target audience.","Step 1: Read the article.
+Step 2: Read the summary.
+Step 3: Compare the information in the summary to the information in the article.
+
+Based on the comparison, the summary accurately captures the main points of the article. It mentions Francesco Totti's threat to quit the Italian Players Association, his unhappiness with the starting date of the next Serie A season, the Italian Football League's decision to start the season on August 26, and Italy coach Roberto Donadoni's preference for the first round of matches to be played midway through the month. The sentences used in the summary are clear and easily understandable to the target audience.
+
+Therefore, the answer is yes.","Yes, the summary is readable with the corresponding article. The summary clearly states that Francesco Totti is unhappy about the start of the Serie A season and threatens to quit the Italian Players Association. It also mentions that the Italian Football League voted to start the season on August 26."
+"Yes.
+
+Reasoning:
+- The summary accurately states that Blackwater USA denies allegations of being associated with unlawful arms activities.
+- The summary mentions that federal prosecutors are investigating allegations of illegal weapon purchases by Blackwater employees.
+- The summary states that Blackwater resumed normal security operations in Iraq after the incident where 20 Iraqi civilians were shot to death.",No evaluation possible.,"The summary accurately reflects the main point of the article. The article discusses allegations that Blackwater USA was involved in unlawful arms activities and asserts that these allegations are baseless. The summary captures this by stating that Blackwater denies any association or complicity in unlawful arms activities. It uses clear and easily understandable language, making it readable for the target audience. Therefore, the answer is yes.","Yes, the summary is readable with the corresponding article. The summary includes the main points of the article, such as the federal investigation into Blackwater employees illegally purchasing weapons and the company's denial of any knowledge of improper weapon exporting. The summary also mentions that Blackwater is hired by the State Department to guard U.S. staff in Iraq. Overall, the sentences are clear and easily understandable to the target audience.","Yes.
+
+Step by step reasoning:
+1. The summary includes the main points of the article, such as allegations against Blackwater and their response, the investigation into illegal weapons purchases by employees, and the shooting of Iraqi civilians.
+2. The sentences in the summary are clear and easily understandable to the target audience.
+3. The information in the summary accurately reflects the information in the article.
+4. Therefore, the summary is readable with the corresponding article.","Yes
+
+Reasoning:
+- The summary accurately states that Blackwater is denying any involvement in unlawful arms activities.
+- The summary mentions that federal prosecutors are investigating weapons sales by Blackwater employees, which is mentioned in the article.
+- The summary correctly identifies Blackwater as a security firm hired by the State Department to guard U.S. staff in Iraq.
+- The summary mentions that Blackwater's operations were suspended after the shooting incident, which is mentioned in the article."
+"The summary is readable with the corresponding article. 
+
+Reasoning:
+- The summary accurately states that Cpl. Trent D. Thomas was found guilty of kidnapping and conspiracy to commit several offenses, which is mentioned in the article.
+- The summary mentions that Thomas will be demoted to the rank of entry-level private and will receive a bad-conduct discharge, which is also mentioned in the article.
+- The summary states that seven Marines and a Navy medic were charged in connection with the death of Hashim Ibrahim Awad, which is mentioned in the article.
+- The summary mentions that Thomas changed his plea from guilty to not guilty in February, which is mentioned in the article.","Yes
+
+Reasoning:
+- The summary accurately states that Cpl. Trent D. Thomas was found guilty of kidnapping and conspiracy and will be demoted to the rank of private and receive a bad-conduct discharge.
+- It also mentions that Thomas was among seven Marines and a Navy medic who were charged in the death of a 52-year-old.
+- The summary provides a clear and concise overview of the main points of the article, making it easily understandable to the target audience.","Yes
+
+Reasoning:
+The sentence used in the summary is clear and easily understandable. It states that Cpl. Trent D. Thomas will be demoted to the rank of entry-level private. This sentence accurately summarizes the information provided in the article.","Yes
+
+Reasoning:
+- The summary accurately conveys the main points of the article, including the conviction and sentencing of a Marine for his role in the death of an Iraqi civilian, the reduction in rank and discharge, and the involvement of seven Marines and a Navy medic in the case.
+- The language used in the summary is clear and easily understandable to the target audience.","Step 1: In the article, it is mentioned that Cpl. Trent D. Thomas will be demoted to the rank of entry-level private and will receive a bad-conduct discharge. This is mentioned in the summary.
+
+Step 2: In the article, it is mentioned that Thomas was found guilty Wednesday of kidnapping and conspiracy to commit several offenses. This is also mentioned in the summary.
+
+Step 3: In the article, it is mentioned that seven Marines and a Navy medic were charged in the death of Hashim Ibrahim Awad. This is also mentioned in the summary.
+
+Based on the above steps, it can be concluded that the summary is readable with the corresponding article. 
+
+Answer: Yes.","Step 1: Identify the main points in the summary and compare them to the main points in the article.
+
+Main points in the summary:
+- Cpl. Trent D. Thomas found guilty of kidnapping and conspiracy.
+- Thomas will be demoted to entry-level private and receive a bad-conduct discharge.
+- Thomas was involved in the death of Hashim Ibrahim Awad.
+
+Main points in the article:
+- Cpl. Trent D. Thomas found guilty of kidnapping and conspiracy.
+- Thomas will be demoted to entry-level private and receive a bad-conduct discharge.
+- Thomas was involved in the death of Hashim Ibrahim Awad.
+
+Step 2: Compare the wording and structure of the summary sentence to the corresponding information in the article.
+
+The wording and structure of the summary sentence closely matches the information in the article. The key points are accurately summarized and the sentence is clear and easily understandable.
+
+Step 3: Determine if the summary sentence is readable with the corresponding article.
+
+Yes, the summary sentence is readable with the corresponding article. It accurately summarizes the main points in a clear and understandable manner."
+"The summary accurately captures the main points of the article. It mentions that Michael Moore and Sanjay Gupta had a heated debate on CNN's ""Larry King Live"" about Gupta's report on Moore's film ""Sicko."" It also highlights that both Moore and Gupta agree on the basic premise that the American health care system has problems that need to be fixed. Additionally, the summary includes quotes from Gupta and Moore, summarizing their viewpoints on the issue. Overall, the summary is clear and easily understandable to the target audience. Therefore, the answer is yes.","Yes, the summary is readable with the corresponding article. The summary includes key points from the article, such as Michael Moore criticizing Gupta's report on ""Sicko,"" Gupta acknowledging the flaws in America's health care system, and Gupta expressing concerns about the movie's portrayal of health care in other countries. The sentences are clear and easily understandable to the target audience.","Step 1: The summary includes the main points of the article, such as Michael Moore and Sanjay Gupta arguing over the data used in Gupta's report on the film ""Sicko.""
+
+Step 2: The language used in the summary is clear and easily understandable.
+
+Step 3: The summary effectively conveys the key information from the article in a concise manner.
+
+Based on these observations, the summary is readable with the corresponding article.","Step 1: The summary mentions the new documentary ""Sicko"" and its focus on the American health care system. This is mentioned in the first sentence of the article, so it is clear and understandable.
+Step 2: The summary includes the statement ""the government actually used to do things right,"" which is a quote from the filmmaker. This statement is mentioned in the last paragraph of the article, so it is clear and understandable.
+Step 3: The summary mentions the filmmaker's position on reprioritizing the government, which is mentioned in the last paragraph of the article. However, the summary does not mention that this position was taken many years before the war. This additional information is not clearly included in the summary.
+Step 4: Overall, the summary includes some clear and understandable information from the article, but it is missing some important details.
+
+Answer: No","Yes
+
+Reasoning:
+The summary accurately captures the main points of the article, including the argument between Michael Moore and Sanjay Gupta over the documentary ""Sicko"" and their agreement on the problems in America's health care system. The language used in the summary is clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary accurately captures the main points of the article, including Moore criticizing Gupta's report on ""Sicko"" and Gupta's positive opinion of the movie.
+- The sentences in the summary are clear and easily understandable to the target audience."
+"Yes
+
+Reasoning:
+- The summary accurately conveys the main events of the article, such as the body of an Ethiopian soldier being dragged through the streets of Mogadishu after gun battles with insurgents.
+- The summary includes key details, such as the crowds shouting ""God is great"" as they dragged the corpse and the battle between Ethiopian troops and insurgents on the city's south side.
+- The summary also mentions the displacement of hundreds of people due to the fighting, which aligns with the information provided in the article about aid agencies saying tens of thousands of people have already fled in recent weeks.","Yes.
+
+Reasoning:
+- The summary includes the main details from the article: crowds shouting ""god is great"" as they drag the body of an Ethiopian soldier through the streets, the death toll of 19 people including nine Ethiopians, and the displacement of hundreds of people due to the fighting.
+- The sentences in the summary are clear and easy to understand.
+- The target audience would be able to comprehend the information provided in the summary.","Yes
+
+The summary accurately captures the main event described in the article, which is a crowd dragging a dead body through the streets of Mogadishu. The details of the body being bullet-riddled and the crowd shouting ""God is great"" are also included, providing a clear and understandable description of the event.","Yes.
+
+Reasoning: The summary accurately captures the main points of the article, such as the enraged crowd dragging the body of an Ethiopian soldier through the streets, the body being bound hand and foot with wire and wrapped in plastic, and the mention of nine Ethiopians being part of the 19 dead. The sentences are clear and easily understandable to the target audience.","Step 1: Identify the main points in the article
+- Enraged crowd dragging the body of an Ethiopian soldier through Mogadishu
+- Gun battles between Ethiopian troops and Islamic insurgents resulting in 19 deaths
+- Similarity to the 1993 incident with U.S. troops being dragged through the streets
+- Ethiopian troops arrived in Somalia in 2006 to assist the Somali government
+
+Step 2: Compare the main points to the summary
+- The summary includes the main points of the article in a concise manner.
+- The language used in the summary is clear and easily understandable to the target audience.
+- The summary effectively communicates the key details of the article without unnecessary information.
+
+Conclusion: Yes, the summary is readable with the corresponding article as it effectively summarizes the main points in a clear and understandable manner.","Yes
+
+Reasoning:
+
+1. The summary includes the key information from the article, such as the dragging of an Ethiopian soldier's body through the streets of Mogadishu, the gun battles that resulted in 19 deaths, and another battle that broke out on the city's south side.
+2. The summary also mentions the insurgents pulling the body out of a car and leaving it with the crowd, which is consistent with the information provided in the article.
+3. The summary includes the mention of Washington's concerns about Somalia becoming a safe haven for terrorists, which is also mentioned in the article.
+4. The summary is concise and uses clear and easily understandable language."
+"Yes
+
+Reasoning:
+- The summary accurately mentions that Julia Vakulenko will face Lindsay Davenport in her first final at the Bell Challenge in Quebec.
+- It also states that Vakulenko is seeking her first victory on the WTA Tour at the tournament.
+- The summary correctly mentions that Lindsay Davenport is a former world No. 1 player and is seeking her second win in three tournaments since returning from a one-year hiatus to have a baby.","The summary is readable with the corresponding article. It includes the main points of the article, such as Julia Vakulenko seeking her first victory at the Bell Challenge, her victory over Julie Ditty, and Lindsay Davenport seeking her second win since returning from a one-year hiatus. The sentences are clear and easily understandable to the target audience.","The summary is not readable with the corresponding article. The summary is incomplete and does not provide enough information for the target audience to understand the content of the article. It only mentions the names of the players and the fact that they will face each other in the final, without providing any context or details about the match or the players' performances.","Yes
+
+Reasoning:
+The summary accurately states the key points of the article, such as the players involved in the final match, Vakulenko's victory in the semifinals, and her current world ranking. The sentence structure is clear and easily understandable.","Step 1: The summary includes the main information from the article, such as the players involved, the tournament they are competing in, and the fact that Davenport is seeking her second win since returning from a one-year hiatus.
+Step 2: The sentences used in the summary are clear and easily understandable to the target audience.
+Step 3: The summary is concise and focuses on the most important details of the article.
+
+Based on these steps, the answer is yes, the summary is readable with the corresponding article.","Yes
+
+Reasoning:
+- The summary accurately states that Julia Vakulenko is facing Lindsay Davenport in the final of the Bell Challenge in Quebec.
+- The summary mentions that Vakulenko defeated American qualifier Julie Ditty in three sets, which matches the information in the article.
+- The summary also correctly states that Lindsay Davenport defeated second seed Vera Zvonareva in three sets.
+- The summary uses clear and concise language to convey the main points of the article."
+"Yes
+
+Reasoning:
+- The summary accurately states that South Africa has a tight grip on the first test against New Zealand in Johannesburg. This information is mentioned in the article.
+- The summary correctly mentions that New Zealand was bowled out for 118 in reply to South Africa's 226 in their first innings. This information is also mentioned in the article.
+- The summary accurately states that Hashim Amla and Jacques Kallis shared an unbeaten stand of 159 as South Africa reached 179 for two in their second innings. This information is mentioned in the article.","Yes, the summary is readable with the corresponding article. The summary accurately captures the main points of the article, such as Dale Steyn's five-wicket haul, South Africa's strong second innings, and the partnership between Hashim Amla and Jacques Kallis. The sentences in the summary are clear and easily understandable to the target audience.","Yes, the summary is readable with the corresponding article. The summary accurately states that South African fast bowler Dale Steyn took a career-best 5-34 against New Zealand.","Yes
+
+Reasoning:
+- The summary includes the main points of the article, such as South Africa taking a tight grip on the first test against New Zealand in Johannesburg and the fast bowler's career-best 5-34.
+- The language used in the summary is clear and easily understandable.","Yes.
+
+Reasoning:
+- The sentence is clear and concise.
+- It includes the main points of the article, such as Dale Steyn's performance, New Zealand's score, and the partnership between Hashim Amla and Jacques Kallis.
+- The sentence is easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary includes the key details of the article such as the lead South Africa has over New Zealand, Dale Steyn's career-best performance, and the unbeaten stand of Hashim Amla and Jacques Kallis.
+- The sentences in the summary are clear and easily understandable."
+"Step 1: Identify the main points in the article.
+- Tens of thousands of Congolese refugees fled camps as rebel troops attacked government forces.
+- Some camps were looted after camp residents fled.
+- 375,000 Congolese in North Kivu province have been forced from their homes in the past year.
+- The Congolese government accused rebel general Laurent Nkunda of staging the attack, but Nkunda denies the allegation.
+
+Step 2: Compare the main points with the summary.
+- The summary mentions that it doesn't appear rebels targeted camps, which is similar to the point about camp residents fleeing.
+- The summary mentions that some camps were looted, which is identical to the point in the article.
+- The summary mentions the number of Congolese forced from their homes, which matches the article.
+- The summary mentions the accusation against rebel general Laurent Nkunda, which is the same as the article.
+
+Step 3: Evaluate the readability of the summary.
+The summary is clear and easily understandable. It accurately captures the main points of the article and presents them in a concise manner.
+
+Answer: Yes","Yes
+
+Reasoning:
+The summary accurately captures the main points of the article in a clear and easily understandable manner. It mentions the movement of refugees, the difficult conditions caused by torrential rain, the accusation and denial of troops staging the attack, and the uncertainty about which group attacked the army outpost.",The summary is not readable with the corresponding article. It only provides a partial and unclear statement about the article. It does not provide any context or explanation of the situation and does not accurately summarize the main points of the article.,"Step 1: The summary states that tens of thousands of Congolese refugees fled camps in the Democratic Republic of Congo. This information is stated in the article: ""Tens of thousands of Congolese refugees fled camps Tuesday in the Democratic Republic of Congo as rebel troops attacked government forces in the area, the U.N. refugee agency said."" Therefore, this part of the summary is readable.
+
+Step 2: The summary states that rebel troops attacked government forces in the area, as reported by the agency. This information is also stated in the article: ""Tens of thousands of Congolese refugees fled camps Tuesday in the Democratic Republic of Congo as rebel troops attacked government forces in the area, the U.N. refugee agency said."" Therefore, this part of the summary is readable.
+
+Step 3: The summary states that a spokesman for the UN military mission in the Congo denies the allegation. This information is not stated in the article. The article mentions that a Nkunda spokesman denied the allegation, but there is no mention of a spokesman for the UN military mission denying the allegation. Therefore, this part of the summary is not readable.
+
+Based on the analysis above, the summary is partially readable with the corresponding article.","Yes
+
+Reasoning:
+- The summary accurately captures the main points of the article.
+- The sentences are clear and easily understandable to the target audience.","Yes.
+
+The summary accurately captures the main points of the article. It mentions that Congolese refugees are fleeing as rebel troops attack government forces, and that some camps have been looted. It also mentions the difficulties caused by torrential rain, and the fact that 375,000 people have been forced from their homes in the past year. Overall, the summary is clear and easily understandable to the target audience."
+"Yes
+
+Reasoning:
+- The summary includes the main points from the article, such as the closure of the U.S. Embassy in Baku and Britain's embassy as a precaution.
+- It mentions that the terror plot was uncovered after a weekend raid, which is consistent with the information in the article.
+- It also states that several members of a radical Islamic group were arrested in the raid, which is accurate based on the article.","Yes
+
+Reasoning:
+- The summary includes the main information from the article: the closure of the U.S. Embassy in Baku, the uncovering of a terror plot after a raid, the mention of specific and credible threat information, and the collaboration between the United States and Azerbaijan.
+- The sentences in the summary are clear and easily understandable to the target audience.","No, the summary is not readable with the corresponding article. 
+
+The summary is incomplete and does not provide enough information for the target audience to understand the context and details of the article. It mentions that authorities uncovered a radical Islamic terror plot against the U.S. embassy in Baku, but it does not provide any additional information or explanation. The summary also includes a random sentence fragment ""[X_SEP] u ."", which does not contribute to the readability or understanding of the summary.","Step 1: Identify the main points in the summary:
+- The embassy in Baku shuts its doors to the public.
+- The terror plot was unraveled after a weekend raid outside Baku.
+- An Azerbaijani army officer seized four assault rifles and 20 hand grenades from his unit.
+- A suspected member of the radical group resisted arrest and was killed in the sweep.
+
+Step 2: Compare the main points to the article:
+- The embassy in Baku shutting its doors to the public is mentioned in the article.
+- The unraveling of the terror plot after a weekend raid is mentioned in the article.
+- The seizure of weapons by an Azerbaijani army officer is mentioned in the article.
+- The resistance and death of a suspected member during the sweep is mentioned in the article.
+
+Step 3: Assess the clarity and understandability of the summary:
+The summary includes concise and clear sentences that accurately convey the main points of the article. It uses simple language and avoids jargon, making it easily understandable to the target audience.
+
+Answer: Yes, the summary is readable with the corresponding article.","Step 1: Read the summary sentence by sentence and compare it to the corresponding sentences in the article.
+- Sentence 1 in the summary: ""NEW: Britain also shuts its embassy in Baku to the public on Monday."" This matches with the sentence in the article that says ""As a precaution, Britain also shut its embassy in Baku to the public on Monday.""
+- Sentence 2 in the summary: ""The terror plot was unraveled after a weekend raid outside Baku."" This matches with the sentence in the article that says ""The terror plot was unraveled after a weekend raid outside Baku that netted several suspected members of the radical group.""
+- Sentence 3 in the summary: ""Several suspected members of the radical group were arrested."" This matches with the sentence in the article that says ""Government security forces tracked down the group and arrested several members during a sweep on Saturday in the village of Mastaga.""
+- Sentence 4 in the summary: ""A U.S. State Department spokesman says the details 'are still unfolding'."" This matches with the sentence in the article that says ""U.S. State Department spokesman Sean McCormack stressed that the details 'are still unfolding'.""
+
+Step 2: Evaluate the readability of the summary.
+The sentences in the summary are clear and easily understandable. They accurately convey the main points of the article without any complex language or confusing phrasing. The target audience should have no difficulty understanding the summary.
+
+Conclusion: Yes, the summary is readable with the corresponding article.","Step 1: Identify the main points in the article
+- Authorities uncover a radical Islamic terror plot against the U.S. Embassy in Baku
+- The U.S. Embassy in Baku has closed its doors to the public
+- Britain also shut its embassy in Baku to the public on Monday
+
+Step 2: Compare the main points with the summary
+The summary accurately includes the main points of the article. It mentions the uncovered terror plot, the closure of the U.S. Embassy in Baku, and the closure of Britain's embassy in Baku.
+
+Step 3: Determine if the summary is clear and easily understandable to the target audience
+Yes, the summary is clear and easily understandable to the target audience. It uses straightforward language and accurately conveys the key information from the article.
+
+Answer: Yes"
+"Step 1: The summary accurately states that Interpol has made a global appeal for help to identify a man from digitally reconstructed photos.
+Step 2: The summary correctly mentions that the images show the man sexually abusing underage boys, as stated in the article.
+Step 3: The summary accurately states that the man's face was disguised by digital alteration, but the images were capable of being restored.
+Step 4: The summary correctly mentions that the pictures have been on the Internet for several years, but investigators have been unable to determine the man's identity.
+
+Based on the step-by-step analysis, the summary is readable with the corresponding article. Yes.","Step 1: The first sentence of the summary states that Interpol says the images were taken in Vietnam and Cambodia. This information is not mentioned in the article. 
+
+Step 2: The second sentence of the summary states that the man's face was disguised by digital alteration. This information is mentioned in the article. 
+
+Step 3: The third sentence of the summary states that the image shows how police used software to unscramble the image. This information is mentioned in the article. 
+
+Step 4: The fourth sentence of the summary states that Interpol has determined the photos have been on the internet for several years, but investigators have been unable to identify the man. This information is mentioned in the article. 
+
+Based on the step by step analysis, the summary is not readable with the corresponding article.","The summary is not readable with the corresponding article. 
+
+Reasoning:
+1. The summary only mentions that Interpol has digitally reconstructed photos showing a man sexually abusing underage boys.
+2. The summary does not mention any other important details from the article, such as the global appeal for help, the man's disguised face, the restoration of the images, the man's unidentified identity and nationality, and the belief that he travels the world to abuse children.
+3. The summary is also missing information about the photos being taken in Vietnam and Cambodia, as well as the decision to make the man's picture public.
+4. Overall, the summary is too brief and lacks important details from the article, making it unclear and not easily understandable to the target audience.","Yes
+
+Reasoning:
+- The sentence is clear and concise.
+- It accurately summarizes the main point of the article, which is that the man's face was digitally altered but the images have been on the internet for several years without investigators being able to identify the suspect.","Step 1: The summary includes the main details of the article, such as the fact that Interpol has appealed for help to identify a man who is sexually abusing underage boys in Vietnam and Cambodia. 
+
+Step 2: The summary also mentions that the man's face was disguised in the images but could be restored, which indicates the use of digital alteration. 
+
+Step 3: The summary includes a quote from Interpol expressing their concern that without public help, the predator could continue to rape. 
+
+Step 4: The summary does not include any unnecessary or confusing information. 
+
+Based on these steps, the summary is readable with the corresponding article as it effectively conveys the main points in a clear and understandable manner. 
+
+Answer: Yes","The summary is readable with the corresponding article. 
+
+Reasoning:
+1. The summary accurately mentions that digitally reconstructed photos show a man sexually abusing underage boys.
+2. The summary includes the information that the man's face was disguised by digital alteration, which is mentioned in the article.
+3. The summary states that the photos were taken in Vietnam and Cambodia, which is also mentioned in the article.
+
+Therefore, the summary includes the key information from the article and presents it in a clear and easily understandable manner, making it readable. 
+
+Answer: Yes"
+"The summary is readable with the corresponding article. 
+
+Step 1: The first sentence of the summary, ""Reuters was first in Europe with news of President Lincoln's assassination in 1865,"" is directly mentioned in the article. It states that in 1865, Reuters was the first in Europe to have news of President Lincoln's assassination in the United States.
+
+Step 2: The second sentence of the summary, ""In 1883 Reuters began to use a 'column printer' to transmit messages electrically to London newspapers,"" is also directly mentioned in the article. It mentions that in 1883, Reuters started using a ""column printer"" to transmit messages electrically to London newspapers.
+
+Step 3: The third sentence of the summary, ""In 2006 Reuters filed over two and a half million news items, including 656,500 alerts, from 209 countries around the world,"" is also mentioned in the article. It states that in 2006, Reuters filed over two and a half million news items, including 656,500 alerts, from 209 countries around the world.
+
+Therefore, all the sentences in the summary are directly mentioned in the article and are clear and easily understandable to the target audience. The answer is yes.","No.
+Reasoning:
+The summary is not readable with the corresponding article. It only includes a few random sentences from the article without providing a clear and coherent summary of the main points.","No, the summary is not readable with the corresponding article.
+
+Reasoning:
+1. The summary only includes one sentence from the article: ""reuters was first in europe with news of president lincoln ' s assassination in 1865.""
+2. The sentence is taken out of context and does not provide a clear understanding of the article.
+3. The summary does not mention any other relevant information from the article, such as the history and expansion of Reuters, its services, and its current status as the world's largest international multimedia news agency.
+
+Therefore, the summary is not readable and does not provide a clear understanding of the article.","No
+
+Reasoning:
+The summary is not readable with the corresponding article because it only includes a few fragmented sentences that do not provide a clear and understandable summary of the article. The sentences also lack context and do not effectively convey the main points of the article.","Step 1: Identify the key points in the article.
+- Reuters is a global information company providing material tailored for professionals in the financial services, media, and corporate markets.
+- It is the world's largest international multimedia news agency.
+- It supplies news -- text, graphics, video, and pictures -- to media organizations.
+- More than 90% of its revenue derives from its financial services business.
+- In 2006, Reuters filed over two and a half million news items, including 656,500 alerts.
+
+Step 2: Compare the key points to the summary.
+- The summary includes the key points from the article: Reuters being the world's largest international multimedia news agency, supplying news to media organizations, deriving more than 90% of its revenue from financial services, and filing a large number of news items in 2006.
+
+Step 3: Evaluate the readability of the summary.
+- The summary is clear and easily understandable to the target audience. It presents the main points concisely and does not include any complex or technical language.
+
+Conclusion: Yes, the summary is readable with the corresponding article.","Yes.
+
+The summary includes key information from the article in a clear and easily understandable manner. It mentions that Reuters was founded in 1851 by Julius Reuter to transmit stock market quotations, and highlights a significant event in its history - being the first in Europe to report news of President Lincoln's assassination in 1865. The summary also mentions the current size and global presence of Reuters, stating that it has over 16,900 staff in over 94 countries. Overall, the summary effectively conveys the main points of the article in a readable manner."
+"Step 1: The summary includes the main points of the article, such as the number of University of South Carolina students killed in the fire, the fact that the survivors are also USC students, and the mayor's statement about the tragedy.
+
+Step 2: The sentences in the summary are clear and straightforward, using simple language that is easily understandable.
+
+Step 3: The target audience for this article could be general readers who are interested in news and current events.
+
+Based on these steps, the summary is readable with the corresponding article. Yes.","Yes
+
+Reasoning:
+- The summary accurately states that six out of seven college students were killed in a house fire in Ocean Isle Beach, North Carolina.
+- It mentions that six USC students were treated and released from the hospital, while others were also treated and released.
+- The summary includes the information that one of the 13 people in the house was related to the house's owner.
+- Lastly, it states that the house was fully engulfed in flames around 7 a.m.","Yes, the summary is readable with the corresponding article. The sentence used in the summary is clear and easily understandable to the target audience. It provides a concise and accurate summary of the main information from the article.","Step 1: The summary mentions that seven college students were killed in a house fire in Ocean Isle Beach, North Carolina. This information is stated in the article. 
+Step 2: The summary states that six survivors were treated and released from the hospital, according to a university official. This information is also mentioned in the article.
+Step 3: The summary includes a quote from the university official stating that it is difficult to determine who was in the house and who was not. This quote is not directly mentioned in the article.
+Step 4: The summary mentions that one person described as ""unaccounted for"" was later confirmed dead. This information is mentioned in the article. 
+
+Based on this analysis, the summary is mostly readable with the corresponding article. However, the quote about it being difficult to determine who was in the house is not directly stated in the article. 
+
+Answer: No","Step 1: The summary includes the key information from the article, such as the number of students killed, the university they attended, and the fact that the survivors are also students at the same university.
+
+Step 2: The summary also includes the information about one person being confirmed dead after being initially unaccounted for.
+
+Step 3: The summary mentions that the house was fully engulfed in flames when the fire department arrived on the scene.
+
+Based on these steps, the summary is readable with the corresponding article. Yes.","Step 1: The summary includes the information that six of the seven deceased individuals attended the University of South Carolina.
+- This information is clearly stated in the summary.
+
+Step 2: The summary includes the information that six survivors were treated and released from the hospital.
+- This information is clearly stated in the summary.
+
+Step 3: The summary includes the information that one person who was previously unaccounted for has been confirmed dead.
+- This information is clearly stated in the summary.
+
+Step 4: The summary includes the information that one of the 13 people in the house was related to the owner.
+- This information is clearly stated in the summary.
+
+Based on the above analysis, the summary is readable with the corresponding article. Yes."
+"Yes.
+
+The summary includes the key information from the article: the partnership started as a single shop on Oxford Street in London, all permanent staff are partners who own department stores and supermarkets, and the chairman retired and was succeeded by someone else. The sentences are clear and easily understandable.","Step 1: The summary states that the partnership started as a single shop on Oxford Street in 1864. This information is clearly stated in the article. 
+Step 2: The summary mentions that each partner receives the same scale of bonus based on a fixed percentage of their wage. This information is also mentioned in the article. 
+Step 3: The summary states that Chairman Sir Stuart Hampson retired at the end of 2007 and his successor is Charlie Mayfield. This information is also mentioned in the article. 
+Step 4: The summary mentions that the partnership employs approximately 67,100 people. This information is also stated in the article. 
+Step 5: However, the summary mistakenly states that the partnership employs 67,000 people instead of 67,100 people as mentioned in the article. 
+
+Based on this analysis, the summary is mostly readable with the corresponding article. The only mistake is the incorrect number mentioned for the number of people employed by the partnership. 
+
+Answer: No","No, the summary is not readable with the corresponding article. The summary only includes the first sentence of the article and does not provide any context or information about the partnership, its current state, or any other details mentioned in the article.","Yes
+
+Reasoning: The summary accurately captures the main points of the article, including the history of the partnership, the number of permanent staff and their ownership of department stores, and the bonus structure based on annual wage. The sentences are clear and easily understandable to the target audience.","Yes.
+
+Reasoning:
+
+1. The summary includes the main points from the article, such as John Lewis starting as a single shop, the number of staff and their ownership, and the retirement of Chairman Sir Stuart Hampson.
+2. The sentences used in the summary are clear and easily understandable to the target audience. They are straightforward and do not contain complex language or jargon.
+3. The summary does not include any unnecessary or confusing information.
+4. The summary captures the key information in a concise manner.","Yes.
+
+The summary includes clear and easily understandable information from the article. It mentions that all 67,100 permanent staff are partners who own 26 John Lewis department stores. It also states that every partner receives the same scale of bonus based on a fixed percentage of their annual wage. Lastly, it mentions that Chairman Sir Stuart Hampson retired in March 2007 and his successor is Charlie Mayfield. Overall, the summary accurately captures the main points of the article in a readable manner."
+"Yes
+
+Reasoning:
+- The summary includes key information from the article, such as the founding of Qualcomm in 1985 by seven communications industry veterans.
+- The mention of OmniTRACS as the largest satellite-based commercial mobile system for the transportation industry is also mentioned in the summary.
+- The fact that over 130 telecommunications equipment manufacturers have licensed Qualcomm's CDMA patents is included.
+- Finally, the summary mentions that Qualcomm has been listed among Fortune's ""100 Best Companies to Work For in America"" for nine years.","The summary is readable with the corresponding article. 
+
+Reasoning:
+- The summary accurately mentions Qualcomm's patent portfolio and the number of patents and patent applications it holds for CDMA.
+- The summary also mentions that more than 130 telecommunications equipment manufacturers worldwide have licensed Qualcomm's CDMA patents.
+- Lastly, the summary mentions that Qualcomm has been listed among Fortune 500's ""100 Best Companies to Work For in America."" 
+
+All of these points are clearly stated in the article and are easily understandable to the target audience. Therefore, the summary is readable. 
+
+Answer: Yes","No, the summary is not readable with the corresponding article. The summary is incomplete and does not provide any information about Qualcomm's products, patents, or achievements mentioned in the article. Additionally, the summary ends abruptly and does not provide a clear conclusion or main point.","Step 1: The sentence ""Qualcomm's patent portfolio includes approximately 6,100 United States patents"" is clear and easily understandable to the target audience. It provides information about the number of patents that Qualcomm holds.
+
+Step 2: The sentence ""the company has been listed among Fortune's '100 Best Companies to Work For in America'"" is clear and easily understandable to the target audience. It indicates that Qualcomm has been recognized as one of the best companies to work for.
+
+Step 3: The sentence ""the company's annual revenue for 2006 was $7.53 billion"" is clear and easily understandable to the target audience. It provides information about Qualcomm's revenue in 2006.
+
+Overall, the summary is readable with the corresponding article. 
+
+Answer: Yes","Step 1: Identify the main points in the article.
+- Qualcomm was founded in 1985 by seven communications industry veterans.
+- OmniTRACS is the largest satellite-based commercial mobile system for the transportation industry.
+- Qualcomm is among the members of the S&P 500 Index, Fortune 500.
+- The company has been listed among Fortune's ""100 Best Companies to Work For in America.""
+- Qualcomm's Annual revenue for 2006 was $7.53 billion, with a net income of $2.47 billion.
+
+Step 2: Compare the main points to the summary.
+- The summary includes the main point that Qualcomm was founded in 1985 by seven communications industry veterans.
+- The summary includes the main point that OmniTRACS is the largest satellite-based commercial mobile system for the transportation industry.
+- The summary includes the main point that Qualcomm is among the members of the S&P 500 Index, Fortune 500.
+- The summary includes the main point that the company has been listed among Fortune's ""100 Best Companies to Work For in America.""
+- The summary does not include the main point about Qualcomm's annual revenue and net income.
+
+Step 3: Determine if the summary is readable with the corresponding article.
+Based on the comparison of main points, the summary is readable with the corresponding article. It includes the key information about Qualcomm's founding, OmniTRACS, membership in S&P 500 Index and Fortune 500, and recognition as one of Fortune's ""100 Best Companies to Work For in America.""
+
+Answer: Yes","Yes.
+
+Reasoning:
+- The summary includes information about the company's founding in 1985 by seven communications industry veterans.
+- It also mentions the annual revenue for 2006, which shows the financial success of the company.
+- Lastly, it states that the company has been listed among Fortune's ""100 Best Companies to Work For in America,"" highlighting its positive reputation.
+
+The summary includes clear and easily understandable information from the article, making it readable for the target audience."
+"Yes
+
+Reasoning:
+- The summary accurately mentions that AC Milan's Brazilian Kaka has been named European player of the year.
+- It states that Kaka was a major factor in Milan's triumphant Champions League campaign.
+- It mentions the runner-up and third-place finishers in the award.
+- It states that Kaka has already won all the game's major prizes, individually and collectively.
+
+All of the information in the summary is clear and easily understandable to the target audience.","The summary is readable with the corresponding article. 
+
+Reasoning:
+1. The summary includes the main information from the article, such as Kaka being named European player of the year and already winning all the game's major prizes.
+2. It mentions that Kaka's success comes two years after Ronaldo won the award, which is mentioned in the article.
+3. The summary also includes the information about Kaka being part of Brazil's 2002 World Cup winning squad, which is stated in the article.",The summary is not readable with the corresponding article. The summary only includes the first sentence of the article and does not provide any additional information or context.,"Yes
+
+Reasoning:
+- The summary includes the main points of the article, such as the fact that Kaka has won all of the game's major prizes and was a major factor in AC Milan's Champions League campaign.
+- The summary also mentions the runner-up, Cristiano Ronaldo, and the third-place finisher, Lionel Messi.
+- The language used in the summary is clear and easily understandable.","Yes.
+
+The summary accurately captures the main points of the article. It mentions that AC Milan's Brazilian midfielder Kaka has been named European player of the year, and highlights his role in AC Milan's successful Champions League campaign. It also mentions that Manchester United's Cristiano Ronaldo was the runner-up and Barcelona's Lionel Messi finished third. The summary is clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary accurately states that Brazilian Kaka has been named European player of the year.
+- It correctly mentions that Kaka was chosen ahead of Cristiano Ronaldo of Manchester United and Lionel Messi of Barcelona, who finished third.
+- The summary is clear and easily understandable to the target audience."
+"Yes.
+
+The summary accurately captures the main points of the article. It mentions that BUPA began as a healthcare organization to preserve freedom of choice, and that their main business is health insurance in the UK. It also mentions that many top companies in the UK are BUPA customers, and that BUPA's UK care homes provide specialist care to residents including the elderly and the mentally ill. The sentences in the summary are clear and easily understandable to the target audience.","Step 1: Compare the summary sentence with the article.
+
+The summary sentence mentions that BUPA is a leading healthcare company in several countries and that more than half of the UK's top companies are BUPA customers. It also mentions that BUPA has one million insured customers with access to a network of 18,000 medical professionals.
+
+Step 2: Compare the clarity and understandability of the summary sentence with the article.
+
+The summary sentence is clear and easily understandable. It accurately captures the main points from the article, including the countries where BUPA operates, its customer base, and the size of its network of medical professionals.
+
+Conclusion: The summary sentence is readable with the corresponding article.
+
+Answer: Yes","No
+
+Reasoning:
+1. The summary only includes part of the sentence from the article, ""bupa began as the british united provident association in 1947.""
+2. The summary does not provide any clear information about BUPA's current activities or services.
+3. The summary does not effectively convey the main points or context of the article.","Yes
+
+Reasoning:
+- The summary accurately states that BUPA is a leading healthcare company in multiple countries.
+- The summary correctly mentions that BUPA began as The British United Provident Association in 1947 with the goal of preserving freedom of choice in healthcare.
+- The summary also mentions that BUPA believed there would still be a need for a complimentary service despite the introduction of a national health service.","Yes
+
+Reasoning:
+- The summary accurately states that BUPA began as The British United Provident Association in 1947.
+- The summary mentions that BUPA has bases on three continents and more than eight million customers, which is mentioned in the article.
+- The summary correctly states that BUPA is a leading healthcare company in the UK, Spain, Australia, Ireland, Hong Kong, Thailand, Malta, and Saudi Arabia, which is mentioned in the article.","Yes.
+
+Reasoning:
+- The summary accurately captures the main points of the article, which are BUPA's business in health insurance in the UK, their large customer base among top UK companies, and their international coverage for expatriates.
+- The sentences in the summary are clear and easily understandable to the target audience. They use simple language and do not include any complex or technical terms."
+"Yes.
+
+The summary accurately captures the main points of the article. It mentions the number of people in Britain who pose a threat due to support for al Qaeda-inspired terrorism, as well as the involvement of young people in terrorist-related activity. It also mentions the number of terrorist convictions in Britain since September 11. The sentences are clear and easily understandable to the target audience.","Yes.
+
+The summary accurately captures the main points of the article. It mentions that MI5 chief Jonathan Evans warns about children as young as 15 getting involved in terrorist-related activity and that there are at least 2,000 people in Britain who pose a threat due to their support for al Qaeda-inspired terrorism. It also mentions that there have been 200 terrorist convictions in Britain since the September 11 attacks. Overall, the summary is clear and easily understandable.","Yes.
+
+The summary accurately captures the main point of the article, which is that children as young as 15 are being involved in terrorist-related activity, according to the chief of MI5, Jonathan Evans. The summary is clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary includes the main points from the article, such as the number of people posing a threat to security in Britain and the number of terrorist convictions since 9/11.
+- The language used in the summary is clear and easily understandable to the target audience.","Step 1: Identify the main points in the article.
+- Children as young as 15 are becoming involved in terrorist-related activity in Britain.
+- At least 2,000 people in Britain pose a threat to the country's security due to their support for al Qaeda-inspired terrorism.
+- The figure of 2,000 could be double the known number.
+- There have been 200 terrorist convictions in Britain since the September 11 attacks.
+- The command and inspiration for attack planning in the UK has come from al Qaeda's core leadership in Pakistan, but recently there has been an increase in plots inspired by al Qaeda cadres in other countries.
+- There has been no decrease in the number of Russian covert intelligence officers operating in Britain since the end of the Cold War.
+- Resources are being used to protect Britain against spying.
+
+Step 2: Compare the main points with the summary.
+- The summary includes the main points of the article, such as the number of people posing a threat to security, the increase in terrorist convictions, and the use of resources to protect against spying.
+
+Step 3: Evaluate the readability of the summary.
+- The summary is clear and easily understandable to the target audience. It uses simple language and conveys the main points of the article accurately.
+
+Conclusion: Yes, the summary is readable with the corresponding article.","Yes.
+
+The summary accurately captures the main points of the article. It mentions that children as young as 15 are involved in terrorist activity, that 2,000 people in Britain pose a threat to security, and that terrorists are targeting and grooming young people. The sentences are clear and easily understandable for the target audience."
+"Yes, the summary is readable with the corresponding article. The summary includes the main points of the article, such as Camoranesi scoring for Juventus, Cruz scoring for Inter Milan, and Inter Milan retaining their unbeaten record. The sentences are clear and easily understandable to the target audience.","Yes
+
+Reasoning:
+- The sentences in the summary are clear and concise.
+- The main points of the article are summarized accurately.
+- The target audience, assuming it is familiar with soccer and Serie A, should have no trouble understanding the summary.","No, the summary is not readable with the corresponding article. The summary only includes the first sentence of the article, which does not provide enough information to be easily understandable to the target audience.","Yes
+
+Reasoning:
+- The summary accurately states that Mauro Camoranesi scored with 13 minutes left to earn Juventus a 1-1 draw with Inter Milan.
+- The summary also states that the defending champions are two points clear of Fiorentina at the top of the table.
+- Both of these statements are clear and easily understandable to the target audience.","Yes, the summary is readable with the corresponding article. 
+
+1. The summary accurately states that Juventus earned a 1-1 home draw with Serie A leaders Inter Milan on Sunday.
+2. It mentions that Mauro Camoranesi scored with 13 minutes left to earn Juve a point, matching the information in the article.
+3. The summary correctly states that Inter retained their unbeaten record this season despite injury problems, which is mentioned in the article.
+4. It also mentions that Roma missed the chance to close the gap on Inter by throwing away a two-goal lead to draw 2-2 at Empoli, which is also mentioned in the article.
+
+Overall, the summary provides a clear and easily understandable overview of the main points in the article.","Yes
+
+Reasoning:
+- The summary includes the main points of the article, such as Mauro Camoranesi earning Juventus a draw with Inter Milan and Inter taking the lead in the first half.
+- The language used in the summary is clear and easily understandable to the target audience."

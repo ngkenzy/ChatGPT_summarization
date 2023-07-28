@@ -1,0 +1,1114 @@
+sshleifer/distilbart-cnn-12-6,mrm8488/bert-small2bert-small-finetuned-cnn_daily_mail-summarization,microsoft/prophetnet-large-uncased-cnndm,t5-small,facebook/bart-large-cnn,google/pegasus-cnn_dailymail
+"Yes, the summary is non-redundant with the corresponding article. It includes new information about Daniel Radcliffe turning 18 and gaining access to his fortune, as well as his statement about not wasting his money on extravagant things. It also mentions that his earnings from the Potter films have been held in a trust fund, which is not mentioned in the article.","Yes
+
+Reasoning:
+- The summary mentions that Daniel Radcliffe has no plans to spend his money on fast cars, drink, and celebrity parties, which is stated in the article.
+- The summary states that Radcliffe's earnings from the first five Potter films have been held in a trust fund, which is also mentioned in the article.
+- The summary mentions that Radcliffe will reprise his role in the last two films, which is stated in the article.
+- The summary states that Radcliffe will appear in ""Harry Potter and the Order of the Phoenix,"" which is also mentioned in the article.","No, the summary is not non-redundant with the article. The summary sentence repeats the information from the article that Daniel Radcliffe gains access to a reported $41.1 million as he turns 18 on Monday.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+1. The summary mentions that the young actor, Daniel Radcliffe, has no plans to spend his money on fast cars, drink, and celebrity parties. This is mentioned in the article.
+2. The summary states that Radcliffe will be able to gamble in a casino, buy a drink, and see the horror film ""Hostel: Part II"" when he turns 18. This is also mentioned in the article.
+3. The summary mentions that Radcliffe's agent and publicist had no comment on his plans. This is stated in the article.
+4. The summary mentions that Radcliffe's latest outing as the boy wizard is breaking records on both sides of the Atlantic. This is mentioned in the article.
+
+Therefore, the summary is non-redundant with the article.","Step 1: The article mentions that Daniel Radcliffe turns 18 on Monday.
+Step 2: The summary correctly states that Daniel Radcliffe gains access to a reported £20 million ($41.1 million) fortune.
+Step 3: The summary correctly mentions that Radcliffe's earnings from the first five Potter films have been held in a trust fund.
+Step 4: The summary correctly states that details of how he'll mark his landmark birthday are under wraps.
+
+The summary does not repeat any information from the article, so it is non-redundant. 
+
+Answer: Yes","Yes
+
+Reasoning:
+- The summary accurately mentions that Daniel Radcliffe gains access to a reported £20 million fortune, which is mentioned in the article.
+- The summary also accurately mentions that the young actor has no plans to fritter his cash away, which is stated by Radcliffe himself in the article.
+- The summary mentions that Radcliffe's earnings from the first five Potter films have been held in a trust fund, which is also mentioned in the article."
+"The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary includes new information that is not mentioned in the article, such as Bush reclaiming presidential power after the procedure and the size of the polyps.
+- The summary also includes information that is mentioned in the article, but in a different way. For example, the article mentions that Bush's last colonoscopy was in June 2002 and no abnormalities were found, while the summary states that the information was provided by White House spokesman Tony Snow.
+- The summary does not repeat any information from the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The first sentence of the summary states that Bush's last colonoscopy was in June 2002 and no abnormalities were found. This information is not repeated in the article.
+- The second sentence of the summary mentions that Vice President Dick Cheney assumed presidential power at 9:21 a.m. on Saturday. This information is mentioned in the article.
+- The third sentence of the summary states that Bush is in good humor and will resume his activities at Camp David. This information is mentioned in the article.
+- The fourth sentence of the summary mentions that Laura Bush was celebrating her mother's birthday. This information is not repeated in the article.
+
+Therefore, the summary is non-redundant with the corresponding article.","Yes
+
+Reasoning:
+The summary accurately states that five small polyps were removed from President Bush's colon and that the White House stated that none of them appeared worrisome. This information is mentioned in the first sentence of the article.","The summary is non-redundant with the article. 
+
+Step by Step Reasoning:
+1. The first sentence of the summary, ""none appeared worrisome,"" is a direct quote from the article.
+2. The second sentence of the summary, ""president will resume his activities at Camp David,"" is a paraphrase of the information in the article that states President Bush is in good humor and will resume his activities at Camp David.
+3. The third sentence of the summary, ""a colonoscopy is the most sensitive test for colon cancer, rectal cancer,"" is a general statement about colonoscopies that is not explicitly mentioned in the article, but is generally known information about the procedure.
+4. None of the summary sentences repeat information from the article, making it non-redundant.","Yes
+
+Reasoning:
+- The summary accurately states that doctors removed five small polyps from President Bush's colon.
+- The summary accurately states that the polyps were all small, less than a centimeter in diameter.
+- The summary accurately states that Vice President Dick Cheney assumed presidential power during the procedure.
+- The summary accurately states that Bush reclaimed presidential power at 9:21 a.m. after about two hours.
+- The summary does not repeat any information from the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that five small polyps were removed from President Bush's colon, which is mentioned in the article.
+- The summary also mentions that the polyps did not appear worrisome, which is stated by the White House spokesman in the article.
+- The summary states that Bush had a colonoscopy in June 2002, which is mentioned in the article.
+- Lastly, the summary mentions that Bush had polyps removed during colonoscopies before becoming president, which is also mentioned in the article.
+
+Therefore, all the information in the summary is non-redundant with the article."
+"Yes
+
+Reasoning:
+- The summary mentions that Tomas Medina Caracas was a fugitive from a U.S. drug trafficking indictment, which is stated in the article.
+- The summary mentions that he was a member of the high command of the Fuerzas Armadas Revolucionarias de Colombia, which is stated in the article.
+- The summary mentions that the army's Rapid Response Force tracked him down at a FARC camp in the jungle in the south of the country, which is stated in the article.
+
+Therefore, the summary is non-redundant with the corresponding article.","Step 1: 
+The article states that Tomas Medina Caracas was a key rebel commander and fugitive from a U.S. drug trafficking indictment. This is mentioned in the summary.
+
+Step 2:
+The article also mentions that Medina Caracas was indicted in the United States along with two other FARC commanders in November 2002. This is also mentioned in the summary.
+
+Step 3:
+The article states that Medina Caracas commanded FARC's 16th Front in the southern departments of Vichada and Guainia. This is mentioned in the summary.
+
+Step 4:
+The article mentions that Medina Caracas is accused of conspiring to kidnap oil workers from Venezuela in 1997. This is mentioned in the summary.
+
+Based on the above analysis, the summary is non-redundant with the corresponding article.","No, the summary is not non-redundant with the article. The summary only includes a partial sentence and does not provide any new information or context.","The summary is non-redundant with the corresponding article. The summary provides a brief overview of the key points mentioned in the article without repeating the same information. It mentions that ""El Negro Acacio"" was a member of the high command of the guerrilla encampment, he was charged with conspiracy to import cocaine into the United States, and he helped manage the group's cocaine trafficking network. These points are all mentioned in the article, but the summary presents them in a concise manner without repeating any specific details. Therefore, the answer is yes.","Reasoning:
+- The summary mentions that Tomas Medina Caracas was a member of the high command of the FARC, which is mentioned in the article.
+- The summary mentions that he was charged with conspiracy to import cocaine into the United States, which is mentioned in the article.
+- The summary mentions that U.S. officials alleged he managed FARC's sales of cocaine to international drug traffickers, which is mentioned in the article.
+- The summary mentions that FARC is Colombia's oldest, largest, most capable and best-equipped rebel group, which is mentioned in the article.
+
+The summary includes all the main points from the article without any repetition. Therefore, it is non-redundant with the article.
+
+Answer: Yes","Step 1: Analyze the article:
+The article provides information about the death of Tomas Medina Caracas, a key rebel commander and fugitive from a U.S. drug trafficking indictment. It mentions that he was killed in an air attack on a guerrilla encampment and that he was alleged to have managed the FARC's cocaine trafficking network.
+
+Step 2: Analyze the summary:
+The summary accurately states that Tomas Medina Caracas was a fugitive from a U.S. drug trafficking indictment and that he was killed in an air attack on a guerrilla encampment. It also mentions that U.S. officials alleged he managed the FARC's cocaine trafficking network.
+
+Step 3: Compare the summary with the article:
+The summary does not repeat any information from the article. It includes key details about Tomas Medina Caracas, his death, and his alleged involvement in managing the FARC's cocaine trafficking network.
+
+Conclusion: The summary is non-redundant with the corresponding article.
+
+Answer: Yes"
+"The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that a 20-year-old AT4 anti-tank rocket launcher tube was found on the front lawn of a Jersey City, New Jersey, home, which is information also stated in the article.
+- The summary also states that the launcher is no longer operable and not considered to be a hazard to public safety, which is information provided by the police in the article.
+- Lastly, the summary mentions that Army officials could not determine if the launcher had been fired, but they should know once they find out where it came from. This information is also mentioned in the article. 
+
+Therefore, the summary does not repeat any information from the article and is non-redundant.","Step 1: Identify the main points in the article.
+- Niranjan Desai discovered an empty rocket launcher tube on her lawn in Jersey City, New Jersey.
+- The launcher has been turned over to U.S. Army officials at the 754th Ordnance Company.
+- The launcher is no longer operable and not considered a hazard to public safety.
+- The origin of the rocket launcher and the circumstances that led to its appearance are being investigated by the FBI and Jersey City police.
+- The nearest military base, Fort Dix, is more than 70 miles away.
+- The launcher is a shoulder-fired, direct-fire weapon used against ground targets.
+- It is a one-time-use device.
+- It is not wire-guided and has a 40-inch-long fiberglass-wrapped tube that weighs 4 pounds.
+- The missile it uses can penetrate 14 inches of armor from a maximum of 985 feet.
+
+Step 2: Analyze the summary.
+- The summary mentions Niranjan Desai discovering the rocket launcher tube and it being turned over to the U.S. Army officials. This aligns with the information in the article.
+- The summary also mentions the launcher being turned over at least 70 miles from the nearest military base. This is accurate information from the article.
+- However, the summary does not mention the investigation being conducted by the FBI and Jersey City police, the non-operability and safety of the launcher, the description of the launcher, and its one-time-use nature.
+
+Step 3: Compare the main points of the article and the summary.
+The summary only includes a partial mention of the main points in the article. It does not mention important details such as the investigation, the non-operability and safety of the launcher, and its description and one-time-use nature.
+
+Step 4: Decide if the summary is non-redundant with the article.
+No, the summary is not non-redundant with the article. It misses several key points and does not provide a complete summary of the article.","The summary is non-redundant with the corresponding article. It condenses the main information of the article, mentioning the discovery of an empty AT4 anti-tank rocket launcher tube on the front lawn of a home in New Jersey.","The summary is non-redundant with the corresponding article. 
+
+1. The summary mentions that the 20-year-old AT4 anti-tank rocket launcher tube was found on the lawn, which is mentioned in the article.
+2. The summary mentions that the device has been turned over to the 754th Ordnance Company, which is mentioned in the article.
+3. The summary mentions that there is no indication the launcher had been fired recently, which is mentioned in the article.
+
+Therefore, the summary does not repeat any information from the article and is non-redundant.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions the key details of the article, including the discovery of a rocket launcher tube on a front lawn in Jersey City, New Jersey, and the fact that it is a 20-year-old AT4 anti-tank rocket launcher tube, which is a one-time-use device.
+- The summary also includes the information that the launcher is no longer operable and is not considered a hazard to public safety, which is mentioned in the article by the police.
+- The summary does not repeat any additional information from the article.","The summary is non-redundant with the article. It includes new information about the launcher being turned over to U.S. Army officials at Fort Monmouth, New Jersey. It also provides information about the launcher being 20 years old and no longer operable. Finally, it mentions that the launcher is a shoulder-fired, direct-fire weapon used against ground targets. None of this information is repeated in the summary sentences."
+"The summary is non-redundant with the article. 
+
+Reasoning:
+- The summary mentions that Carlos Alberto joins Werder Bremen for a club record fee, which is not mentioned in the article.
+- The summary states that Carlos Alberto enjoyed success at FC Porto under Jose Mourinho, which is mentioned in the article.
+- The summary mentions that Carlos Alberto scored in the Champions League final victory against Monaco in 2004, which is mentioned in the article.
+- The summary mentions that Carlos Alberto has been on loan with his first club Fluminense since January of that year, which is mentioned in the article. 
+
+Therefore, the summary does not repeat information from the article and is non-redundant. 
+Yes.","The summary is redundant with the corresponding article. 
+
+Step 1: The summary states that Carlos Alberto has joined Werder Bremen for a club record fee of 7.8 million euros, which is mentioned in the article.
+
+Step 2: The summary mentions that Carlos Alberto scored in FC Porto's Champions League final victory against Monaco in 2004, which is also mentioned in the article.
+
+Step 3: The summary states that Carlos Alberto is 22 years old, which is not mentioned in the article.
+
+Step 4: The summary mentions that Carlos Alberto scored in the Champions League last year, which is not mentioned in the article.
+
+Since the summary repeats information from the article, it is redundant. No.","The summary is non-redundant with the corresponding article. The summary mentions that Brazilian defender Carlos Alberto has signed for Bundesliga club Werder Bremen, which is the main information provided in the article. The summary does not repeat any other information from the article.","Yes
+
+Reasoning:
+
+- The summary states that Carlos Alberto joins Werder Bremen for a club record fee, which is mentioned in the article.
+- The summary mentions that Carlos Alberto scored in FC Porto's Champions League final victory against Monaco in 2004, which is also mentioned in the article.
+- The summary mentions that Carlos Alberto started his career with Fluminense and helped them lift the Campeonato Carioca in 2002, which is mentioned in the article.","1. The summary states that Carlos Alberto has joined Werder Bremen for a club record fee of $10.7 million. This information is mentioned in the article.
+2. The summary mentions that Carlos Alberto scored in FC Porto's Champions League final victory in 2004. This information is also mentioned in the article.
+3. The summary states that Carlos Alberto is the third top Brazilian player to join the German league in three days. This information is not mentioned in the article.
+
+Based on the step by step analysis, the summary is non-redundant with the corresponding article.","Step 1: Analyzing the summary sentence ""Brazilian striker Carlos Alberto joins Werder Bremen from FC Porto.""
+This sentence is non-redundant with the article because it provides new information about Carlos Alberto joining Werder Bremen from FC Porto.
+
+Step 2: Analyzing the summary sentence ""The 22-year-old joins for a club record $10.7 million.""
+This sentence is non-redundant with the article because it provides new information about the record fee that Carlos Alberto joined Werder Bremen for.
+
+Step 3: Analyzing the summary sentence ""He has been on loan at Fluminense since January.""
+This sentence is non-redundant with the article because it provides new information about Carlos Alberto being on loan at Fluminense since January.
+
+Based on the analysis, the summary is non-redundant with the corresponding article."
+"Step 1: Vice President Dick Cheney will serve as acting president briefly Saturday.
+This information is mentioned in the article. 
+
+Step 2: White House spokesman Tony Snow is undergoing chemotherapy for colon cancer.
+This information is not mentioned in the article.
+
+Step 3: Bush's last colonoscopy was in June 2002, and no abnormalities were found, White House says.
+This information is mentioned in the article.
+
+Step 4: Procedure is the most sensitive test for colorectal cancer, rectal cancer and polyps.
+This information is mentioned in the article.
+
+Based on the above analysis, the summary is redundant with the corresponding article as it repeats information that is already mentioned in the article.","1. The summary mentions that Bush's last colonoscopy was in June 2002 and no abnormalities were found. This information is mentioned in the article.
+2. The summary mentions that Bush is scheduled to have the procedure, expected to take about 2 1/2 hours. This information is mentioned in the article.
+3. The summary mentions that ""the president wants to encourage everybody to use surveillance."" This information is mentioned in the article.
+4. The summary mentions that Bush is undergoing chemotherapy for cancer that began in his colon. This information is mentioned in the article.
+
+Based on the above analysis, the summary is redundant with the corresponding article. 
+
+No.","The given summary is incomplete and does not provide any new information beyond what is mentioned in the article. It only mentions that Dick Cheney will serve as acting president while President Bush has a colonoscopy, which is already stated in the article. Therefore, the summary is redundant with the article. No.","The summary is non-redundant with the article. 
+
+Reasoning: 
+- The summary mentions that the president's doctor recommended a repeat procedure in about five years, which is not mentioned in the article.
+- The summary also mentions that a colonoscopy is the most sensitive test for colon cancer and rectal cancer, which is mentioned in the article but not in the same sentence structure.
+- Lastly, the summary includes a quote from the spokesman saying that the president wants to encourage everybody to use surveillance, which is mentioned in the article but not in the same sentence structure.
+
+Answer: Yes","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary accurately states that Vice President Dick Cheney will temporarily serve as acting president during President Bush's colonoscopy.
+- The summary mentions the location of the colonoscopy, which is Camp David, Maryland.
+- The summary acknowledges that no abnormalities were found during Bush's previous colonoscopy in June 2002.
+- The summary includes the information that White House spokesman Tony Snow is undergoing chemotherapy for colon cancer.
+
+Therefore, the summary does not repeat any information from the article and is non-redundant.","1. The summary includes the key information that President Bush will have a routine colonoscopy on Saturday. This information is mentioned in the article.
+2. The summary also states that Vice President Dick Cheney will serve as acting president during this time. This information is mentioned in the article.
+3. The summary mentions that Bush's last colonoscopy was in June 2002. This information is mentioned in the article.
+4. The summary states that a colonoscopy is the most sensitive test for colon cancer, rectal cancer, and polyps. This information is mentioned in the article.
+5. The summary does not include information about the location of the procedure (presidential retreat at Camp David) or the details of the medical team conducting the procedure. 
+
+Based on this analysis, the summary is non-redundant with the corresponding article.
+
+Answer: Yes"
+"The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The first sentence of the summary states that about 2,000 customers were without power in the San Francisco area, which is mentioned in the article.
+- The second sentence of the summary mentions that the police received many calls of inquiry, with no injuries or damage reported. This is also mentioned in the article.
+- The third sentence of the summary provides the same information as the article about the location of the earthquake.
+- The fourth sentence of the summary states that the shaking lasted about 50 seconds, which is also mentioned in the article.
+
+Therefore, the summary does not repeat any information from the article and is non-redundant.","Yes, the summary is non-redundant with the corresponding article. The summary provides new information about the magnitude of the earthquake, the number of customers without power, and the location and depth of the quake. These details are not repeated in the article.","Yes, the summary is non-redundant with the corresponding article. The summary provides a concise overview of the main information from the article, including the magnitude of the earthquake and the time it occurred in the San Francisco area. It does not repeat any specific details or quotes mentioned in the article.","Step 1: Identify the main points in the article:
+- A magnitude 4.2 earthquake shook the San Francisco area at 4:42 a.m. PT.
+- The quake left about 2,000 customers without power.
+- A magnitude 4.2 earthquake is considered ""light"" and usually causes minimal damage.
+- Quakes of this magnitude are felt indoors and may break dishes, windows, and overturn unstable objects.
+
+Step 2: Compare the main points in the article with the summary:
+- The summary includes the information about the power outage caused by the quake.
+- The summary states that a magnitude 4.2 earthquake is considered ""light"" and usually causes minimal damage, which is mentioned in the article.
+- The summary includes the information about the potential effects of a magnitude 4.2 earthquake.
+
+Step 3: Determine if the summary repeats information from the article:
+- The summary does repeat some information from the article, such as the power outage and the classification of a magnitude 4.2 earthquake as ""light.""
+- However, the summary also includes additional information about the potential effects of the earthquake.
+
+Based on this analysis, the summary is non-redundant with the corresponding article.","1. The first sentence of the summary states that about 2,000 customers were without power in the San Francisco area. This information is mentioned in the article.
+2. The second sentence of the summary states that the quake was centered about two miles east-northeast of Oakland, at a depth of 3.6 miles. This information is mentioned in the article.
+3. The third sentence of the summary states that Oakland is just east of San Francisco, across San Francisco Bay. This information is mentioned in the article.
+4. The fourth sentence of the summary states that the shaking lasted about 50 seconds, according to CNN meteorologist Chad Myers. This information is mentioned in the article.
+
+The summary does not repeat information from the article, so it is non-redundant.
+
+Answer: Yes","Yes
+
+Reasoning:
+- The summary mentions that about 2,000 customers were left without power, which is not mentioned in the article.
+- The summary includes a quote from a San Francisco police captain stating that the earthquake was ""fairly mild,"" which is not mentioned in the article.
+- The summary states the location and depth of the earthquake, which is mentioned in the article."
+"Step 1: The summary mentions that a suspect escaped immediately after the bomb exploded, which is not mentioned in the article. This is new information. 
+Step 2: The summary also mentions that President Bouteflika stated that terrorist acts have nothing in common with the noble values of Islam, which is also new information not mentioned in the article. 
+Step 3: The summary includes the information that the explosion occurred at 5 p.m. about 20 meters from a mosque in Batna, which is mentioned in the article. 
+Step 4: The summary mentions that Algeria faces a continuing Islamic insurgency, according to the CIA, which is also mentioned in the article. 
+
+Based on this analysis, the summary is non-redundant with the corresponding article. 
+
+Answer: Yes","Step 1: Identify the main points in the article.
+- A bomb explosion in Batna, Algeria killed 14 people and wounded 60 others.
+- The explosion occurred near a mosque and happened 15 minutes before the expected arrival of President Abdel-Aziz Bouteflika.
+- It is unclear if the bomb was caused by a suicide bomber or if it was planted.
+- Algeria faces a continuing Islamic insurgency, according to the CIA.
+- There was no immediate claim of responsibility for the bombing.
+
+Step 2: Analyze the summary sentences.
+- ""Algeria's Interior Minister Noureddine Yazid Zerhouni says."" This sentence does not provide any new information compared to the article.
+- ""The bomb went off 15 minutes before the expected arrival of President Abdel-Aziz Bouteflika."" This sentence repeats information from the article.
+- ""Algeria faces a continuing Islamic insurgency, the CIA says."" This sentence repeats information from the article.
+- ""Algeria is facing a continued Islamic insurgency."" This sentence repeats information from the article.
+
+Step 3: Determine if the summary sentences are non-redundant with the article.
+Two out of the four summary sentences repeat information from the article. Therefore, the summary is redundant with the corresponding article.
+
+Answer: No","Step 1: The article mentions that a bomb went off 15 minutes before the expected arrival of Algeria's president.
+Step 2: The summary states that a bomb goes off 15 minutes before expected arrival of Algeria's president.
+
+The summary is redundant with the corresponding article because it repeats information that is already mentioned. No.","The summary is non-redundant with the corresponding article. 
+1. The summary states that at least 14 people were killed and 60 wounded, which is information provided in the article.
+2. The summary mentions that the bomb went off 15 minutes before the expected arrival of President Abdel-Aziz Bouteflika, which is also mentioned in the article.
+3. The summary indicates that it wasn't clear if the bomb was caused by a suicide bomber, which is information provided in the article. 
+
+Therefore, the summary does not repeat any information from the article and is non-redundant. 
+Yes.","Step 1: The summary includes the information that a suspect tried to go beyond the security cordon, which is not mentioned in the article. This makes the summary non-redundant with the article. 
+
+Step 2: The summary includes the information that Bouteflika says terrorist acts have nothing in common with the noble values of Islam, which is not mentioned in the article. This makes the summary non-redundant with the article. 
+
+Step 3: The summary includes the information that at least 14 people were killed and 60 others wounded in the attack in Batna, east of Algiers, which is mentioned in the article. This makes the summary redundant with the article. 
+
+Step 4: The summary includes the information that there was no immediate claim of responsibility for the bombing, which is mentioned in the article. This makes the summary redundant with the article. 
+
+Based on the reasoning above, the summary is partially redundant with the corresponding article. No.","Step 1: In the article, it is mentioned that a bomb went off 15 minutes before the expected arrival of President Bouteflika.
+Step 2: The article also states that it wasn't clear if the bomb was caused by a suicide bomber or if it was planted.
+Step 3: The article mentions that Algeria faces a continuing Islamic insurgency, according to the CIA.
+
+The summary accurately captures the main points of the article without repeating information. Therefore, the answer is yes, the summary is non-redundant with the corresponding article."
+"The summary is non-redundant with the article. 
+
+Step 1: The summary mentions that David Beckham has begun a five-year contract with the Los Angeles Galaxy, which is mentioned in the article. 
+
+Step 2: The summary mentions that Beckham has joined the Galacticos of Madrid, which is also mentioned in the article. 
+
+Step 3: The summary states that Beckham will meet the press and reveal his new shirt number on Friday, which is mentioned in the article. 
+
+Step 4: The summary mentions that CNN will look back at the life of Beckham, the talented youngster who fulfilled his dream of playing for Manchester United, which is also mentioned in the article. 
+
+Since all the information in the summary is mentioned in the article, and there is no repetition of information, the summary is non-redundant. 
+
+Answer: Yes","No. The summary repeats information from the article, such as Beckham's rise to football stardom and his partnerships with Reggie Bush and Motorola.","The summary is non-redundant with the article. The summary accurately states that David Beckham has signed a five-year contract with the Los Angeles Galaxy, which is mentioned in the article. It does not repeat any other information from the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning: 
+- The summary mentions that David Beckham has begun a five-year contract with the Los Angeles Galaxy team, which is mentioned in the article.
+- The summary also mentions that this week, there will be an in-depth look at the life and times of Beckham, which is also mentioned in the article.
+- Finally, the summary mentions that the in-depth look will explore what makes Beckham tick as a footballer, fashion icon, and global phenomenon, which aligns with the content of the article. 
+
+Therefore, the summary does not repeat any information from the article and is non-redundant. 
+
+Answer: Yes","The summary is non-redundant with the article because it does not repeat any information. It provides a brief overview of David Beckham's contract with the Los Angeles Galaxy, Beckham's rise to stardom, and a mention of the David Beckham academy in L.A. These points are all mentioned in the article but are not repeated in the summary. Therefore, the answer is yes.","Yes
+
+Reasoning:
+- The summary mentions that CNN's Becky Anderson is looking at the life and times of David Beckham, which is mentioned in the article.
+- The summary mentions that David Beckham has begun a five-year contract with the Galaxy, which is mentioned in the article.
+- The summary mentions that Anderson asks how Beckham and his family will adapt to life in Los Angeles, which is mentioned in the article."
+"Step 1: Identify the main points in the article:
+- Savers at Northern Rock lined up to empty their accounts after the bank was bailed out by the Bank of England.
+- Customers have already withdrawn £1 billion since the bank's troubles were revealed.
+- Shares in Northern Rock dropped up to 30 percent in Friday trading, affecting the European banking sector.
+
+Step 2: Compare the main points in the summary to the main points in the article:
+- Both the summary and the article mention that customers lined up to withdraw their accounts from Northern Rock.
+- Both the summary and the article mention that customers have withdrawn £1 billion since the bank's troubles were revealed.
+- Both the summary and the article mention that shares in Northern Rock dropped up to 30 percent in Friday trading, affecting the European banking sector.
+
+Step 3: Determine if the summary is non-redundant with the article:
+Based on the comparison in step 2, it can be concluded that the summary is redundant with the article. The summary sentences repeat the information already mentioned in the article.
+
+Answer: No","Step 1: The article mentions that a lender was bailed out by the Bank of England after heavily slashing profit forecasts. 
+Step 2: The summary includes the information that the lender was bailed out by the bank of england after heavily slashing profit forecasts. 
+Step 3: The summary is redundant with the corresponding article. 
+
+No","The summary is non-redundant with the corresponding article. It condenses the information by mentioning that savers at a leading UK mortgage bank lined up for a second day to empty their accounts, and it also mentions the name of the bank, Northern Rock.","Step 1: Identify the main points in the article
+- Savers at a leading UK mortgage bank lined up to empty their accounts after the bank was bailed out by the Bank of England.
+- The bank had heavily slashed profit forecasts.
+- Customers ignored reassurances from the bank and the government.
+- Customers have already withdrawn about £1 billion since the bank's troubles were revealed.
+- Shares in the bank dropped up to 30 percent.
+- The British Bankers' Association urged customers to remain calm.
+- The finance minister stated that the Bank of England stepped in to stabilize the banking system.
+- The bank's CEO mentioned that they had yet to draw on the emergency cash.
+
+Step 2: Analyze the summary
+- The summary mentions that the Bank of England bailed out the bank after heavily slashing profit forecasts, which is mentioned in the article.
+- The summary states that customers lined up to withdraw cash from a leading mortgage bank, which is also mentioned in the article.
+- The summary mentions that customers ignored reassurances from the bank and the government, which is mentioned in the article.
+
+Step 3: Compare the summary to the article
+The summary includes the main points of the article without repeating information. It condenses the information about the bank's financial troubles, customers lining up to withdraw cash, and their disregard for reassurances from the bank and the government.
+
+The summary is non-redundant with the corresponding article.","Reasoning:
+1. The summary states that savers at a leading UK mortgage bank lined up for a second day to empty their accounts. This is mentioned in the article.
+2. The summary states that Northern Rock was bailed out by the Bank of England after slashing profit forecasts. This is mentioned in the article.
+3. The summary states that shares in Northern Rock dropped up to 30 percent in Friday trading. This is mentioned in the article.
+4. The summary states that the British Bankers' Association has urged customers to ""calm down"". This is mentioned in the article.
+
+The summary accurately captures the main points of the article without repeating information. 
+
+Answer: Yes","Step 1: Compare the first sentence of the summary with the article.
+- The first sentence of the summary states: ""Savers at leading UK mortgage bank lined up for a second day to empty accounts.""
+- The corresponding sentence in the article is: ""Long lines formed before counters opened at the Northern Rock building society, one of the UK's top five lenders, as worried customers ignored reassurances from the bank and the government.""
+
+The first sentence of the summary is non-redundant with the corresponding article because it condenses the information about savers lining up to empty their accounts from the article.
+
+Step 2: Compare the second sentence of the summary with the article.
+- The second sentence of the summary states: ""Northern Rock was bailed out by the Bank of England after slashing profit forecasts.""
+- The corresponding sentence in the article is: ""Savers at a leading UK mortgage bank lined up for a second day to empty their accounts Saturday, a day after the lender was bailed out by the Bank of England after heavily slashing profit forecasts.""
+
+The second sentence of the summary is redundant with the corresponding article because it repeats the information about Northern Rock being bailed out by the Bank of England after slashing profit forecasts.
+
+Step 3: Compare the third sentence of the summary with the article.
+- The third sentence of the summary states: ""British Bankers' Association has urged customers to 'calm down.'""
+- The corresponding sentence in the article is: ""The British Bankers' Association has urged customers to 'calm down,' according to the UK Press Association.""
+
+The third sentence of the summary is non-redundant with the corresponding article because it condenses the information about the British Bankers' Association urging customers to ""calm down"" from the article.
+
+Based on the step-by-step reasoning, the summary is non-redundant with the corresponding article."
+"The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that a contestant drowned in preparation for the TV survival show, which is the main event described in the article.
+- The summary includes the name of the contestant, Anthony Ogadje, and also mentions that he was with nine other contestants at Shere Hills Lake in Nigeria's Plateau State, which are details mentioned in the article.
+- The summary states that Heineken's local unit is sponsoring the show and that the broadcasting was due to start on Thursday, both of which are mentioned in the article.
+- The summary mentions the prize that the winner was supposed to receive, which is also mentioned in the article.","The summary is non-redundant with the article because it does not repeat any specific information mentioned in the article. The summary only includes the key details about Anthony Ogadje and the potential rewards for the winner of the show. It does not mention the suspension of the show or the circumstances of Anthony Ogadje's death, which are mentioned in the article.","No, the summary is not non-redundant with the corresponding article. 
+
+The summary only includes the information about the suspension of the television survival show and the drowning of a contestant. It does not mention any other details or context provided in the article, such as the location of the incident, the preparation for the show, the failed attempts to revive the contestant, the prize money, or the popularity of the show.","The summary is redundant with the corresponding article. 
+Reasoning:
+- The first sentence of the summary repeats the information from the article that a contestant drowned in preparation for the ""Gulder Ultimate Search.""
+- The second sentence of the summary repeats the information from the article that the contestant had gone to Shere Hills Lake in the hilly Plateau State.
+- The third sentence of the summary repeats the information from the article about the prize money that the winner was to receive.
+- The fourth sentence of the summary repeats the information from the article that the winner could have expected to become an instant celebrity.
+- Therefore, the summary repeats information from the article and is redundant.","The summary is non-redundant with the article. 
+
+1. The summary mentions that the television survival show has been suspended after a contestant drowned, which is stated in the article.
+2. The summary mentions the name of the contestant, Anthony Ogadje, and that he was with nine other contestants at Shere Hills Lake, which is also mentioned in the article.
+3. The summary mentions the name of the television show, ""Gulder Ultimate Search,"" and that it sets a variety of physical challenges for participants, which is stated in the article.
+4. The summary mentions that broadcasting was supposed to start on Thursday, which is stated in the article.
+
+Therefore, the summary does not repeat any information from the article and is non-redundant.","Yes
+
+Reasoning:
+- The summary accurately mentions that the television survival show in Nigeria has been suspended after a contestant drowned, which is the main focus of the article.
+- It also identifies the contestant as Anthony Ogadje, who was preparing for the ""Gulder Ultimate Search"" show.
+- Lastly, the summary states that the show is sponsored by Dutch brewer Heineken's local unit."
+"The summary is non-redundant with the article because it does not repeat any information. The summary mentions that Chelsea is waiting on John Terry's fitness, which is mentioned in the article. It also states that Terry suffered a broken cheekbone during the match with Fulham, which is also mentioned in the article. Additionally, the summary mentions that Frank Lampard has been ruled out with a thigh injury, which is stated in the article. Finally, the summary mentions that Michael Essien is expected to play, which is also mentioned in the article. Therefore, the summary does not repeat any information and is non-redundant with the article. Yes.","Step 1: In the article, it is mentioned that Chelsea are waiting on the fitness of John Terry ahead of Wednesday's Champions League match. This is also mentioned in the summary.
+Step 2: In the article, it is mentioned that Terry suffered a broken cheekbone during Saturday's 0-0 draw with Fulham. This is also mentioned in the summary.
+Step 3: In the article, it is mentioned that Avram Grant will see how Terry fares during training on Tuesday before making a decision on his availability. This is also mentioned in the summary.
+Step 4: In the article, it is mentioned that Michael Essien has been battling a leg injury but he is expected to play. This is also mentioned in the summary.
+
+The summary includes all the relevant information from the article without repeating any information. Therefore, the summary is non-redundant with the corresponding article. 
+
+Yes.","The summary is redundant with the article because it simply restates that Chelsea is waiting on the fitness of John Terry and that Terry suffered an injury. These points are already mentioned in the article. Therefore, the answer is no.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions John Terry trying out his protective mask during training on Tuesday, which is mentioned in the article.
+- The summary also mentions that Terry suffered a broken cheekbone during a 0-0 draw with Fulham, which is also mentioned in the article.
+- Finally, the summary mentions that the Chelsea manager, Avram Grant, will see how Terry fares during training before making a decision on his availability, which is also mentioned in the article.
+
+Therefore, the summary does not repeat any information from the article. 
+
+Answer: Yes","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+1. The summary includes the information that Chelsea is waiting on the fitness of John Terry for the Champions League match against Valencia.
+2. It also mentions that Terry suffered a broken cheekbone during the match against Fulham.
+3. Finally, the summary states that Chelsea manager Avram Grant will assess Terry's condition during training on Tuesday.
+
+The summary does not repeat any information and provides a concise overview of the main points in the article. Therefore, the answer is yes.","Step 1: Identify the main points in the article:
+- Chelsea are waiting on the fitness of John Terry ahead of Wednesday's Champions League match with Valencia.
+- John Terry trained at Valencia's Mestalla stadium with a face mask on after surgery.
+- Frank Lampard has been ruled out of the game with a thigh injury.
+
+Step 2: Compare the main points in the article with the summary:
+- The summary includes all the main points in the article without repeating information.
+
+Step 3: Answer the question:
+Yes, the summary is non-redundant with the corresponding article."
+"Yes.
+
+Reasoning:
+
+- The summary includes the main point of the article, which is Francesco Totti's threat to quit the Italian Players Association.
+- The summary mentions that the Italian Football League voted to start the season on August 26, ignoring a request by Italy coach Roberto Donadoni. This is also mentioned in the article.
+- The summary includes Totti's quote about players not being listened to, which is also mentioned in the article.
+- The summary mentions that Serie A is one of the last major European leagues to start next season, which is also mentioned in the article.","Step 1: In the article, Francesco Totti is mentioned as threatening to quit the Italian Players Association due to a disagreement over the starting date of the next Serie A season.
+Step 2: The summary includes the statement ""francesco totti has threatened to quit italian players association.""
+Step 3: The summary also includes the statement ""italian football league voted to start the season on august 26,"" which is mentioned in the article.
+Step 4: The summary mentions that Totti says the Italian players are never listened to, which is also mentioned in the article.
+Step 5: The summary includes the statement ""the italian league is one of the last major european leagues to start next season,"" which is mentioned in the article.
+Step 6: The last sentence of the summary, ""click here for all the latest italian league news,"" is not mentioned in the article.
+
+Based on this analysis, the summary is redundant with the article because it includes information that is already mentioned in the article.","The summary is redundant with the corresponding article. The summary only includes the first part of the first sentence of the article, which is already mentioned in the article's title. It does not provide any new information.","The summary is non-redundant with the corresponding article. 
+
+Step 1: The summary mentions that Francesco Totti threatens to quit the Italian Players Association. This is mentioned in the article where Totti is quoted as saying, ""I'm ready to leave the Italian Players Association.""
+
+Step 2: The summary mentions that the row began last month when the Italian Football League voted to start the season. This is mentioned in the article where it states, ""The row began last month when the Italian Football League...voted to start the season on August 26.""
+
+Step 3: The summary mentions that the Italian Football League ignored a request by Italian coach Roberto Donadoni to play the first round of matches. This is mentioned in the article where it states, ""In doing so, they ignored a request by Italy coach Roberto Donadoni to play the first round of matches midway through the month.""
+
+Since the summary does not repeat any information from the article and includes the main points, it is non-redundant.","Step 1: Francesco Totti has threatened to quit the Italian Players Association. This sentence is non-redundant with the article because it accurately summarizes Totti's dissatisfaction with the association.
+Step 2: Totti is unhappy with the starting date of the next Serie A season. This sentence is non-redundant with the article because it accurately summarizes Totti's specific concern about the starting date.
+Step 3: The Italian Football League voted to start the season on August 26. This sentence is non-redundant with the article because it accurately summarizes the decision made by the Italian Football League regarding the starting date.
+Step 4: Italy coach Roberto Donadoni wanted the first round of matches midway through the month. This sentence is non-redundant with the article because it accurately summarizes Donadoni's request for the first round of matches to be scheduled midway through the month.
+Conclusion: The summary sentences are non-redundant with the corresponding article because they accurately capture the main points without repeating information. 
+Answer: Yes","Step 1: Identify the main points in the article.
+- Francesco Totti threatens to quit the Italian Players Association.
+- Totti is unhappy about the start of the Serie A season.
+- The Italian Football League voted to start the season on August 26.
+
+Step 2: Compare the main points in the article with the summary.
+- The summary mentions all three main points from the article, but in a more concise manner.
+
+Step 3: Determine if the summary is non-redundant with the article.
+- Yes, the summary is non-redundant with the article because it does not repeat any information. It captures the key details without using the exact same wording as the article."
+"Yes
+
+Reasoning:
+- The summary accurately mentions that Blackwater has denied any association or complicity in unlawful arms activities.
+- The summary accurately mentions that federal prosecutors are investigating allegations of illegal weapon purchases by Blackwater employees.
+- The summary accurately mentions that Blackwater resumed normal security operations in Iraq after the shooting incident.","Yes
+
+Reasoning:
+- The summary mentions the allegations against Blackwater being baseless, which is mentioned in the article.
+- The summary mentions that Blackwater is a security firm hired by the State Department to guard U.S. staff in Iraq, which is also mentioned in the article.
+- The summary mentions that the State Department has been cooperating with the prosecutors in the probe, which is also mentioned in the article.","Yes
+
+Reasoning:
+- The summary accurately captures the main point of the article, which is that Blackwater asserts that allegations of its involvement in unlawful arms activities are baseless. 
+- The summary does not repeat any specific information from the article.","Yes
+
+Reasoning:
+- The summary mentions that federal prosecutors are investigating allegations that employees of Blackwater illegally purchased weapons, which is mentioned in the article.
+- The summary also mentions that Blackwater is hired by the State Department to guard U.S. staff in Iraq, which is mentioned in the article.
+- Lastly, the summary includes a statement from the company denying any knowledge of employees improperly exporting weapons, which is also mentioned in the article.","Step 1: Identify the main points in the summary:
+- Blackwater fired two employees for stealing from the company.
+- The company denies any knowledge of employees improperly exporting weapons.
+- Federal prosecutors are investigating allegations of illegal weapons purchases by employees.
+- 20 Iraqi civilians were shot to death by Blackwater guards.
+
+Step 2: Compare the main points to the article:
+- The firing of two employees for stealing from the company is mentioned in the article.
+- The company's denial of any knowledge of employees improperly exporting weapons is mentioned in the article.
+- The investigation by federal prosecutors into illegal weapons purchases is mentioned in the article.
+- The shooting of 20 Iraqi civilians by Blackwater guards is mentioned in the article.
+
+Step 3: Determine if the summary is non-redundant with the article:
+Based on the comparison, the summary is non-redundant with the article. The summary presents the main points without directly repeating information from the article. 
+
+Therefore, the answer is yes, the summary is non-redundant with the corresponding article.","Yes
+
+Reasoning:
+- The summary accurately mentions that Blackwater denies any involvement in unlawful arms activities.
+- The summary mentions that federal prosecutors are investigating weapons sales by Blackwater employees, which is mentioned in the article.
+- The summary states that Blackwater is a security firm hired by the State Department to guard U.S. staff in Iraq, which is mentioned in the article.
+- The summary mentions that Blackwater's operations were suspended after 20 Iraqi civilians were shot to death last weekend, which is mentioned in the article."
+"Yes
+
+Reasoning:
+- The summary mentions that Cpl. Trent D. Thomas was found guilty of kidnapping and conspiracy to commit several offenses, which is mentioned in the article.
+- The summary states that Thomas will be demoted to the rank of entry-level private and will receive a bad-conduct discharge, which is mentioned in the article.
+- The summary mentions that seven Marines and a Navy medic were charged in connection with the death of Hashim Ibrahim Awad, which is mentioned in the article.
+- The summary states that Thomas changed his plea from guilty to not guilty in February, which is mentioned in the article.","1. The summary mentions that Cpl. Trent D. Thomas was found guilty of kidnapping and conspiracy, which is mentioned in the article.
+2. The summary states that Thomas will be demoted to the rank of private and receive a bad-conduct discharge, which is also mentioned in the article.
+3. The summary mentions that Thomas was among seven Marines and a Navy medic who were charged in the death of a 52-year-old, which is mentioned in the article.
+
+Based on these observations, the summary is redundant with the corresponding article. Therefore, the answer is NO.","Yes
+
+Reasoning:
+- The summary accurately states that Cpl. Trent D. Thomas will be demoted to the rank of entry-level private.
+- This information is stated in the article: ""Cpl. Trent D. Thomas was found guilty Wednesday... Thomas will be demoted to the rank of entry-level private and will receive a bad-conduct discharge.""","Yes
+
+Reasoning:
+- The summary mentions that the marine was convicted for his role in the death of an Iraqi civilian and was sentenced to a reduction in rank. This is mentioned in the article.
+- The summary also states that the marine will be demoted to the rank of entry-level private and will receive a bad-conduct discharge. This is mentioned in the article.
+- The summary mentions that seven marines and a navy medic were charged in connection with the 2006 death of a civilian. This is mentioned in the article.","The summary is non-redundant with the article. It provides new information by stating that Cpl. Trent D. Thomas will be demoted to the rank of entry-level private and will receive a bad-conduct discharge. It also mentions that Thomas was found guilty of kidnapping and conspiracy to commit several offenses. Additionally, it states that seven Marines and a Navy medic were charged in the death of Hashim Ibrahim Awad. These details were not explicitly mentioned in the article. Therefore, the summary is not redundant.","Step 1: Identify the main information in the article.
+- Cpl. Trent D. Thomas was found guilty of kidnapping and conspiracy.
+- He will be demoted and receive a bad-conduct discharge.
+- Thomas was one of seven Marines and a Navy medic charged in the death of Hashim Ibrahim Awad.
+
+Step 2: Compare the main information in the summary with the main information in the article.
+- The summary includes the main information about Thomas being found guilty of kidnapping and conspiracy.
+- The summary also mentions that Thomas will be demoted and receive a bad-conduct discharge.
+- The summary correctly states that Thomas was one of seven Marines and a Navy medic charged in the death of Hashim Ibrahim Awad.
+
+Step 3: Determine if there is any redundancy between the summary and the article.
+- The summary does not repeat any information from the article. It provides a concise summary of the main points without redundancy.
+
+Based on the reasoning above, the summary is non-redundant with the corresponding article. Yes."
+"Yes
+
+Reasoning:
+- The summary includes the key points of the article without repeating information.
+- It mentions that Michael Moore and Sanjay Gupta argued on CNN's ""Larry King Live"" about Gupta's report on Moore's film ""Sicko.""
+- It highlights that both Moore and Gupta agree on the basic premise of ""Sicko,"" which is that there are problems in America's health-care system that need to be fixed.
+- It includes Gupta's statement that the health-care system is broken and acknowledges Moore's criticism of the government's role in it.","The summary is non-redundant with the article. It includes key points such as Michael Moore's criticism of Gupta's report, Gupta's agreement with the premise of ""Sicko"" that the healthcare system is broken, and Gupta's concern about the movie's portrayal of healthcare in other countries. The summary does not repeat any specific information from the article. Therefore, the answer is yes.","No, the summary is redundant with the corresponding article. The summary only includes a portion of the information in the article and does not provide any new information or additional details.",The summary is non-redundant with the article. It captures the main points of the article without repeating specific information or quotes.,"Yes
+
+Reasoning:
+- The summary accurately captures the main point of the argument between Michael Moore and Sanjay Gupta over the film ""Sicko"".
+- It includes Gupta's statement that the health care system is broken and acknowledges that both Moore and Gupta agree on this basic premise.
+- It also includes Moore's response to Gupta's accusation that the facts in the film were fudged, stating that none of the facts are fudged.","Yes
+
+Reasoning:
+- The summary accurately captures the disagreement between Michael Moore and Sanjay Gupta regarding Gupta's report on Moore's film ""Sicko"".
+- It includes Gupta's statement that he thought the movie was good and agrees with the premise that America's healthcare system is broken."
+"Yes
+
+Reasoning:
+- The summary includes the main information from the article about the body of an Ethiopian soldier being dragged through the streets of Mogadishu after gun battles with insurgents.
+- It mentions that crowds shouted ""God is great"" during the incident, which is not explicitly mentioned in the article but can be inferred from the description of the enraged crowd.
+- The summary also includes information about another battle that broke out between Ethiopian troops and insurgents on the city's south side, which is mentioned in the article.
+- It mentions that the fighting drove hundreds more people from their homes, which is also mentioned in the article.
+- The summary does not repeat any information from the article.","Yes
+
+Reasoning:
+- The summary mentions the crowds shouting ""god is great"" as they drag the body of an Ethiopian soldier through the streets, which is mentioned in the article.
+- The summary also mentions that nine Ethiopians are part of the 19 dead, which is also mentioned in the article.
+- The summary states that the fighting drove hundreds more people from their homes, which is mentioned in the article.
+- The summary does not repeat any other information from the article.","Yes 
+
+The summary accurately captures the main event described in the article, which is the crowd dragging the body of an Ethiopian soldier through the streets of Mogadishu. It also mentions the crowd shouting ""God is great."" The summary does not repeat any information from the article.","Step 1: The summary mentions that an enraged crowd dragged the body of an Ethiopian soldier through the streets of the capital. This information is also mentioned in the article. 
+Step 2: The summary mentions that the body was bound hand and foot with wire and wrapped in a sheet of plastic. This information is also mentioned in the article.
+Step 3: The summary mentions that nine Ethiopians are reportedly part of the 19 dead, according to witnesses. This information is also mentioned in the article.
+
+Based on the above analysis, the summary is redundant with the corresponding article as it repeats the same information. 
+
+No.","Step 1: The summary mentions that an Ethiopian soldier's body was dragged through Mogadishu after gun battles, which is mentioned in the article.
+Step 2: The summary states that fighting between Ethiopian troops and Islamic insurgents kills 19, which is also mentioned in the article.
+Step 3: The summary mentions that U.S. troops were dragged through the streets of Somalia in 1993, which is not mentioned in the article.
+Step 4: The summary states that Ethiopian troops arrived in Somalia in December 2006 to help a weak Somali government, which is mentioned in the article.
+
+The summary is non-redundant with the corresponding article.","Step 1: Identify the main points in the article.
+- Enraged crowd dragging the body of an Ethiopian soldier through the streets of Mogadishu after gun battles with Islamic insurgents killed 19 people.
+- Crowd shouting ""God is great"" while dragging the body, reminiscent of a 1993 battle involving Somali militias and the bodies of U.S. troops.
+- The body was bound hand and foot with wire and wrapped in plastic.
+- Another battle between Ethiopian troops and insurgents occurred on the city's south side, leading to more displacement of people.
+- Ethiopian troops arrived in Somalia in 2006 to help the weak Somali government drive out the Islamic Courts Union (ICU) and restore a U.N.-backed transitional government.
+- The ICU launched an insurgency against the Somali government and Ethiopian troops.
+- The United States supported the Ethiopian presence in Somalia due to concerns about terrorism.
+
+Step 2: Compare the main points in the article with the summary.
+- The summary includes the main points of the article without repeating any information.
+
+Therefore, the summary is non-redundant with the corresponding article. Answer: Yes."
+"The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that Julia Vakulenko will face Lindsay Davenport in her first final at the Bell Challenge in Quebec. This information is mentioned in the article.
+- The summary also mentions that Julia Vakulenko is the third seed and will seek her first victory on the WTA Tour at the tournament. This information is also mentioned in the article.
+- Lastly, the summary mentions that Lindsay Davenport is seeking her second win in three tournaments since returning from a one-year hiatus to have a baby. This information is also mentioned in the article.",The summary is non-redundant with the article. It includes information about Julia Vakulenko seeking her first victory at the Bell Challenge in Quebec and her victory over American qualifier Julie Ditty. It also mentions Lindsay Davenport seeking her second win since returning from a one-year hiatus. The summary does not repeat any other information from the article.,"Yes
+
+Reasoning:
+- The summary mentions that third seed Julia Vakulenko will face Lindsay Davenport in the final, which is stated in the article.
+- The summary also mentions that Vakulenko battled through a victory over Julie Ditty in the semifinals, which is mentioned in the article.","Yes
+
+Reasoning:
+- The summary mentions that Julia Vakulenko will face Lindsay Davenport in the final, which is not explicitly stated in the article.
+- The summary mentions Vakulenko's victory over Julie Ditty in the semifinals, which is stated in the article.
+- The summary mentions Vakulenko's previous career high ranking and her current ranking, which is stated in the article.","Yes
+
+Reasoning:
+- The summary states that Julia Vakulenko will face Lindsay Davenport in the final of the Bell Challenge, which is mentioned in the article.
+- The summary also mentions that Vakulenko beat American qualifier Julie Ditty in straight sets, which is also mentioned in the article.
+- Finally, the summary states that Davenport is seeking her second win in three tournaments since returning from a one-year hiatus to have a baby, which is also mentioned in the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that Julia Vakulenko faces Lindsay Davenport in the final of the Bell Challenge in Quebec, which is not mentioned in the article.
+- The summary also mentions that Vakulenko defeats American qualifier Julie Ditty in three sets, which is mentioned in the article.
+- The summary further mentions that former world No. 1 Davenport defeats second seed Vera Zvonareva in three sets, which is also mentioned in the article.
+- Therefore, the summary does not repeat any information from the article and is non-redundant. 
+
+Answer: Yes"
+"Yes, the summary is non-redundant with the article. 
+The summary includes the key points of the article without repeating any specific information. It mentions that South Africa has taken a tight grip on the first test against New Zealand, which is supported by the fact that New Zealand was bowled out for 118 in reply to South Africa's 226 in their first innings. It also mentions that Hashim Amla and Jacques Kallis shared an unbeaten stand of 159 as South Africa reached 179 for two in their second innings, which shows South Africa's dominance in the match.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions Dale Steyn's career-best five-wicket haul, which is also mentioned in the article.
+- The summary mentions that New Zealand reached 179 for two in reply to South Africa's 226, which is also mentioned in the article.
+- The summary mentions that Hashim Amla and Jacques Kallis shared an unbeaten stand of 159, which is also mentioned in the article.
+
+The summary does not repeat any information from the article, so it is non-redundant. 
+
+Answer: Yes","Yes
+
+Reasoning:
+- The summary accurately states that Dale Steyn took a career-best 5-34 against New Zealand, which is mentioned in the article.
+- The summary does not repeat any other information from the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that the Proteas took a tight grip on the first test against New Zealand in Johannesburg, which is mentioned in the article.
+- The summary also mentions that the fast bowler's career-best 5-34 was his fourth five-wicket haul in 14 tests, which is also mentioned in the article.
+- Lastly, the summary states that South Africa reached 179 for two in their second innings, which is mentioned in the article. 
+
+Therefore, the summary does not repeat any information from the article, making it non-redundant.","Step 1: The article mentions that Dale Steyn took a career-best five for 34, which is mentioned in the summary as well. 
+Step 2: The article also mentions that New Zealand were bowled out for 118 in reply to South Africa's 226, which is also mentioned in the summary. 
+Step 3: The article mentions that Hashim Amla and Jacques Kallis shared an unbeaten stand of 159, which is also mentioned in the summary. 
+Step 4: The summary does not mention that South Africa's bowlers excelled to bring their side back into the game after their disappointing first innings, or any details about the individual wickets taken by the bowlers. 
+Step 5: The summary does not mention that former New Zealand captain Stephen Fleming was struck on the right forearm by Steyn and did not field during the afternoon, or any information about his injury. 
+Step 6: The summary does not mention that New Zealand lost nightwatchman Shane Bond or any details about the wickets taken by the South African bowlers. 
+Step 7: The summary does not mention that Steyn's figures bettered his previous best of five for 47 against the same opponents at Centurion two seasons ago. 
+Step 8: The summary does not mention that South Africa made an uncertain start to their second innings with openers Herschelle Gibbs and captain Graeme Smith out cheaply. 
+Step 9: The summary does not mention that the Kiwis were left to regret Brendon McCullum's failure to hold a chance from Amla off Shane Bond. 
+Step 10: The summary does not mention that the coach John Bracewell commented on the missed chance by McCullum. 
+
+Based on the reasoning above, the summary is non-redundant with the corresponding article.","Yes
+
+Reasoning:
+- The summary mentions that South Africa leads New Zealand by 287 with eight wickets left in the first test, which is not mentioned in the article.
+- The summary also mentions that Dale Steyn took a career-best 5-34 as the Kiwis were bowled out for 118, which is mentioned in the article.
+- The summary further mentions that Hashim Amla and Jacques Kallis were unbeaten on 159 as South Africa reached 179-2, which is mentioned in the article."
+"No, the summary is redundant with the corresponding article. The summary includes sentences that directly repeat information from the article, such as the fact that the rebels did not target the camps and that the Congolese government accused rebel general Laurent Nkunda of staging the attack.","The summary is non-redundant with the corresponding article. It includes information about refugees fleeing as rebel troops attack government forces, the difficulty caused by torrential rain, the Congolese government accusing troops of staging the attack, and the uncertainty about which group attacked the Congo army outpost. The summary does not repeat any specific details or information from the article.","Yes
+
+Reasoning:
+The summary sentence provides new information that is not mentioned in the article. The article mentions that the Congolese government accused rebel troops under general Laurent Nkunda of staging the attack, but the summary adds that a UN-affiliated news service reported that Rwandan Hutu rebels were behind the attack.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+1. The summary mentions that tens of thousands of Congolese refugees fled camps in the Democratic Republic of Congo, which is mentioned in the article.
+2. The summary mentions that rebel troops attacked government forces in the area, which is mentioned in the article.
+3. The summary mentions that a spokesman for the UN military mission in the Congo denies the allegation, which is not explicitly mentioned in the article.","Yes
+
+Reasoning:
+- The summary accurately states that tens of thousands of Congolese refugees fled camps as rebel troops attacked government forces.
+- The summary accurately mentions that the U.N. High Commissioner for Refugees reported that it didn't appear rebels had targeted the camps.
+- The summary correctly states that roads to Goma were crowded with refugees.
+- The summary mentions that torrential rain made movement more difficult, which is not explicitly stated in the article but can be inferred from the statement about refugees being soaking wet.","The summary is non-redundant with the corresponding article. It includes information about the rebels blaming Rwandan Hutu rebels for the attack, the Congolese refugees fleeing as the rebels attack government forces, the difficulty of movement due to torrential rain, and the statistic that 375,000 people have been forced from their homes in the past year. These points are all mentioned in the article, but the summary does not repeat any specific sentences or phrases from the article."
+"1. The first sentence of the summary states that the U.S. Embassy in Baku closes its doors to the public on Monday, which is mentioned in the article.
+2. The second sentence of the summary states that Britain also closes its embassy to the general public as a precaution, which is mentioned in the article.
+3. The third sentence of the summary states that the terror plot was uncovered after a weekend raid outside Baku, which is mentioned in the article.
+4. The fourth sentence of the summary states that several members of a radical Islamic group were arrested in a raid on Saturday, which is mentioned in the article.
+
+Based on the reasoning above, the summary is redundant with the corresponding article.","Yes
+
+Reasoning:
+- The summary states that the U.S. embassy in Baku has closed its doors to the public on Monday, which is mentioned in the article.
+- The summary mentions that the terror plot was unraveled after a weekend raid outside Baku, which is also mentioned in the article.
+- The summary states that UK officials say there were ""specific and credible threat information"" about the embassy, which is mentioned in the article.
+- The summary mentions that the United States is working closely with their counterparts in Baku, which is mentioned in the article.","No, the summary is not non-redundant with the corresponding article. The summary only includes part of the first sentence of the article and does not provide any additional information or details.","Step 1: The summary mentions that the embassy in Baku shuts its doors to the public, which is mentioned in the article. 
+Step 2: The summary mentions that the terror plot was unraveled after a weekend raid outside Baku, which is mentioned in the article. 
+Step 3: The summary mentions that an Azerbaijani army officer seized four assault rifles and 20 hand grenades from his unit, which is mentioned in the article. 
+Step 4: The summary mentions that a suspected member of the radical group resisted arrest and was killed in the sweep, which is mentioned in the article. 
+
+Based on the step-by-step analysis, the summary is non-redundant with the corresponding article. 
+
+Answer: Yes","Step 1: Analyze the article
+
+The article discusses a terror plot against the U.S. Embassy in Baku, Azerbaijan. The plot was uncovered after a raid outside of Baku, and several suspected members of the radical group were arrested. As a precaution, Britain also shut its embassy in Baku to the public. The details of the plot are still unfolding, according to a U.S. State Department spokesman.
+
+Step 2: Analyze the summary
+
+The summary includes the information that Britain shut its embassy in Baku to the public on Monday, which is mentioned in the article. It also mentions that the terror plot was unraveled after a weekend raid outside Baku, and several suspected members of the group were arrested, which is also mentioned in the article. Lastly, it includes the statement from the U.S. State Department spokesman that the details are still unfolding, which is also mentioned in the article.
+
+Step 3: Decide if the summary is non-redundant with the article
+
+Based on the analysis, the summary does not repeat information from the article and includes key details without redundancy.
+
+Answer: Yes","Yes
+
+Reasoning:
+- The summary accurately states that authorities uncovered a radical Islamic terror plot against the U.S. Embassy in Baku, which is mentioned in the article.
+- The summary also states that the U.S. Embassy in Baku has closed its doors to the public, which is mentioned in the article.
+- Lastly, the summary mentions that Britain also shut its embassy in Baku to the public, which is also mentioned in the article."
+The summary is non-redundant with the corresponding article. It includes the key information from the article without repeating any specific details. Each sentence in the summary provides new information that is not repeated elsewhere.,"Step 1: Compare the first sentence of the summary with the article.
+- In the first sentence of the summary, it states that Interpol says the images were taken in Vietnam and Cambodia.
+- In the article, it is mentioned that Interpol has determined the photos were taken in Vietnam and Cambodia.
+
+Step 2: Compare the second sentence of the summary with the article.
+- In the second sentence of the summary, it mentions that the man's face was disguised by digital alteration.
+- In the article, it is stated that the man's face was disguised by digital alteration.
+
+Step 3: Compare the third sentence of the summary with the article.
+- In the third sentence of the summary, it states that the image shows how police used software to unscramble the image.
+- In the article, it is mentioned that the moving image shows how police used software to unscramble the image.
+
+Step 4: Compare the fourth sentence of the summary with the article.
+- In the fourth sentence of the summary, it states that Interpol has determined the photos have been on the internet for several years, but investigators have been unable to identify the man.
+- In the article, it is stated that the pictures have been on the internet for several years, but investigators have been unable to determine the man's identity or nationality.
+
+Based on the above analysis, the summary is non-redundant with the corresponding article because none of the sentences in the summary repeat information from the article. 
+
+Answer: Yes","The summary is redundant with the corresponding article. 
+
+Step by step reasoning:
+1. The article states that Interpol made a global appeal for help to identify a man from digitally reconstructed photos that showed him sexually abusing underage boys.
+2. The summary states that Interpol's digitally reconstructed photos show a man sexually abusing underage boys.
+3. The information in the summary is a direct repetition of the information in the article, making it redundant.","Yes
+
+Reasoning:
+- The summary accurately states that the man's face was disguised by digital alteration and that the images were capable of being restored.
+- The summary also accurately states that the images have been on the internet for several years but investigators have been unable to determine the suspect's identity or nationality.
+- The summary does not repeat any additional information from the article.","Step 1: The summary includes the information that the man's face was disguised by digital alteration, but the images were capable of being restored. This information is mentioned in the article: ""The man's face was disguised by digital alteration, but the images were capable of being restored, according to a bulletin from Interpol.""
+
+Step 2: The summary includes the information that Interpol believes the man could continue to rape without the public's help. This information is mentioned in the article: ""We are now convinced that without the public's help this sexual predator could continue to rape and sexually abuse young children whose ages appear to range from six to early teens.""
+
+Step 3: The summary includes the information that the photos were taken in Vietnam and Cambodia. This information is mentioned in the article: ""Interpol has determined the photos were taken in Vietnam and Cambodia.""
+
+The summary is non-redundant with the corresponding article.","The summary is non-redundant with the article. 
+
+Reasoning:
+1. The summary states that digitally reconstructed photos show a man sexually abusing underage boys. This information is mentioned in the article: ""Interpol on Monday took the unprecedented step of making a global appeal for help to identify a man from digitally reconstructed photos taken from the Internet that it said showed him sexually abusing underage boys.""
+2. The summary mentions that the man's face was disguised by digital alteration. This information is also mentioned in the article: ""The man's face was disguised by digital alteration, but the images were capable of being restored, according to a bulletin from Interpol.""
+3. The summary states that the photos were taken in Vietnam and Cambodia. This information is mentioned in the article: ""Interpol has determined the photos were taken in Vietnam and Cambodia.""
+
+Based on this reasoning, the summary is non-redundant with the article."
+"The summary is non-redundant with the article. It includes information about Reuters being the first in Europe with news of President Lincoln's assassination in 1865, which is not mentioned in the article. It also mentions that in 1883 Reuters began using a ""column printer"" to transmit messages electrically to London newspapers, which is also not mentioned in the article. Additionally, the summary mentions that in 2006 Reuters filed over two and a half million news items, including 656,500 alerts, from 209 countries around the world, which is not mentioned in the article. Therefore, the summary does not repeat any information from the article.","Step 1: The first sentence of the summary states that Reuters is a global information company providing material tailored for professionals in the financial services, media and corporate markets. This information is mentioned in the first sentence of the article.
+
+Step 2: The second sentence of the summary states that in 1883 Reuters began to use a ""column printer"" to transmit messages electrically to London newspapers. This information is mentioned in the article.
+
+Step 3: The third sentence of the summary states that Reuters is the world's largest international multimedia news agency, with 196 bureaux serving approximately 131 countries around the world. This information is mentioned in the article.
+
+Based on the analysis, the summary is redundant with the corresponding article. No.","The summary is non-redundant with the article. The summary only mentions one specific event from the article (Reuters being first in Europe with news of President Lincoln's assassination in 1865), while the article provides a comprehensive overview of Reuters' history, services, and global reach. The summary does not repeat any information from the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that Reuters is a global information company providing material tailored for professionals in the financial services, media, and corporate markets, which is mentioned in the article.
+- The summary mentions that in 1851, Reuters transmitted stock market quotations between London and Paris via the new Calais-Dover cable, which is also mentioned in the article.
+- The summary mentions that Reuters eventually extended its service to other European countries, which is also mentioned in the article.","Step 1: The summary mentions that Reuters is the world's largest international multimedia news agency, which is mentioned in the article.
+Step 2: The summary mentions that Reuters supplies news to media organizations, which is mentioned in the article.
+Step 3: The summary mentions that more than 90% of Reuters' revenue comes from its financial services business, which is mentioned in the article.
+Step 4: The summary mentions that in 2006, Reuters filed over two and a half million news items, including 656,500 alerts, which is mentioned in the article.
+Step 5: The summary does not repeat any information from the article and provides a concise overview of the main points.
+
+Therefore, the summary is non-redundant with the corresponding article.","Step 1: Identify the main points of the article.
+- Reuters is a global information company providing material for professionals in the financial services, media, and corporate markets.
+- It was founded in 1851 by Paul Julius Reuter.
+- It transmitted stock market quotations between London and Paris via the new Calais-Dover cable.
+- It expanded its services to other European countries and eventually to the Far East and South America.
+- It pioneered the use of technology such as the ""column printer,"" radio, and teleprinter to transmit news internationally.
+- It currently has over 16,900 staff in over 94 countries.
+- More than 90% of its revenue comes from its financial services business.
+- It supplies news to media organizations and businesses outside the financial services sector, as well as direct to consumers.
+
+Step 2: Evaluate the summary sentences.
+- ""Reuters was founded in 1851 by Julius Reuter to transmit stock market quotations."" This sentence accurately reflects the main point that Reuters was founded in 1851 and its initial purpose was to transmit stock market quotations.
+- ""In 1865 Reuters was first in Europe with news of President Lincoln's assassination."" This sentence accurately reflects the main point that Reuters was the first to report on President Lincoln's assassination in Europe in 1865.
+- ""Today Reuters has over 16,900 staff in over 94 countries across the globe."" This sentence accurately reflects the main point that Reuters currently has a large global presence with over 16,900 staff in over 94 countries.
+
+Step 3: Determine if there is redundancy between the article and the summary.
+- The summary sentences do not repeat any information from the article. Each sentence provides a unique piece of information that is not already covered in the other sentences.
+
+Conclusion: The summary is non-redundant with the corresponding article. Yes."
+"The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that University of South Carolina students were killed in a house fire, which is a key detail from the article.
+- It also states that six survivors of the fire are USC students, which is another important piece of information.
+- The summary includes quotes from the mayor about the tragedy and the condition of the house when the fire department arrived, which are additional details not mentioned in the article.
+
+Answer: Yes","The summary is non-redundant with the article. 
+
+Reasoning:
+- The summary includes the information that six out of seven college students were killed in a house fire in Ocean Isle Beach, North Carolina, which is mentioned in the article.
+- The summary also mentions that six USC students were treated and released from the hospital, which is also mentioned in the article.
+- The summary includes the information that one of the 13 people in the house was related to the house's owner, which is mentioned in the article.
+- Lastly, the summary mentions that the house was fully engulfed in flames around 7 a.m., which is mentioned in the article. 
+
+The summary does not repeat any information from the article and includes key details from the article. Therefore, it is non-redundant with the corresponding article.","Yes, the summary is non-redundant with the article. The summary provides new information by stating that six of the seven killed in the house fire were University of South Carolina students.","1. The summary mentions that seven college students were killed in a house fire in Ocean Isle Beach, North Carolina. This information is present in the article. 
+
+2. The summary states that six survivors were treated and released from the hospital, according to a university official. This information is also present in the article.
+
+3. The summary includes a quote from the university official saying, ""it is difficult to ascertain exactly who was in the house and who was not."" This quote is also present in the article.
+
+4. The summary mentions that one person described as ""unaccounted for"" was later confirmed dead. This information is also present in the article.
+
+Based on the analysis, the summary is non-redundant with the corresponding article.","Step 1: The first sentence of the summary states that six of the seven killed attended the University of South Carolina. This information is mentioned in the first sentence of the article.
+Step 2: The second sentence of the summary states that the six survivors are also USC students. This information is mentioned in the article when the university official states that the survivors are USC students.
+Step 3: The third sentence of the summary states that one person described as ""unaccounted for"" was later confirmed dead. This information is mentioned in the article when the mayor of Ocean Isle Beach confirms that one person initially unaccounted for was later confirmed dead.
+Step 4: The fourth sentence of the summary states that the house was fully ""engulfed"" in flames when the fire department arrived on the scene. This information is mentioned in the article when the mayor of Ocean Isle Beach describes the condition of the house when the fire department arrived.
+
+Based on this analysis, the summary is non-redundant with the corresponding article.","Step 1: The summary includes the information that six of the seven dead attended the University of South Carolina, which is mentioned in the article. 
+Step 2: The summary also includes the information that six survivors were treated and released from the hospital, which is mentioned in the article. 
+Step 3: The summary includes the information that one person described as ""unaccounted for"" was confirmed dead, which is mentioned in the article. 
+Step 4: The summary includes the information that one of the 13 people in the house was related to the owner, which is mentioned in the article. 
+
+Based on the step-by-step analysis, the summary is non-redundant with the corresponding article. 
+
+Answer: Yes"
+"Yes, the summary is non-redundant with the corresponding article. 
+
+The summary includes information about the partnership starting as a single shop on Oxford Street in London, which is mentioned in the article. It also mentions that all 67,100 permanent staff are partners who own 26 John Lewis department stores and 183 Waitrose supermarkets, which is also mentioned in the article. Lastly, the summary mentions that Chairman Sir Stuart Hampson retired at the end of March 2007, with his successor being Charlie Mayfield, which is mentioned in the article as well. Therefore, the summary does not repeat any information from the article.","The summary is not non-redundant with the corresponding article. 
+
+Reasoning:
+1. The first sentence of the summary states that the partnership started as a single shop on Oxford Street in 1864, which is mentioned in the article.
+2. The second sentence of the summary mentions that each partner receives the same scale of bonus based on a fixed percentage of their wage, which is also mentioned in the article.
+3. The third sentence of the summary states that Chairman Sir Stuart Hampson retired at the end of 2007, which is incorrect as the article states he retired at the end of March 2007.
+4. The fourth sentence of the summary repeats the information that the partnership employs approximately 67,100 people, which is mentioned in the article.
+5. The fifth sentence of the summary repeats the information about the partnership employing 67,000 people, which is redundant.
+
+The summary includes redundant information and one incorrect statement, making it not non-redundant with the article.","The summary is redundant with the article because it repeats information from the first sentence of the article. The summary restates that the partnership started as a single shop on Oxford Street in London, which is already mentioned in the article. Therefore, the summary is redundant. No.","Yes
+
+Reasoning:
+- The summary mentions that the partnership started as a single shop on Oxford Street in 1864, which is mentioned in the article.
+- The summary mentions that all 67,100 permanent staff are Partners who own 26 John Lewis department stores, which is also mentioned in the article.
+- The summary mentions that each partner receives the same scale of bonus, based on a fixed percentage of their annual wage, which is also mentioned in the article.
+
+Therefore, the summary is non-redundant with the article.","1. The summary mentions that John Lewis started as a single shop on Oxford Street in London, which is mentioned in the article.
+
+2. The summary states that all 67,100 permanent staff are Partners who own 26 John Lewis department stores and 183 Waitrose supermarkets. This information is also mentioned in the article.
+
+3. The summary mentions that Chairman Sir Stuart Hampson retired at the end of March 2007 and his successor is Charlie Mayfield. This information is also mentioned in the article.
+
+Based on the above analysis, the summary is non-redundant with the corresponding article.","The summary is non-redundant with the article because it does not repeat any information. The summary includes key points such as the ownership structure of the company, the bonus system for employees, and the retirement of the chairman. These points are not repeated in the summary."
+"Step 1: The article mentions that Qualcomm was founded in 1985 by seven communications industry veterans. 
+Step 2: The summary correctly states that Qualcomm was founded in 1985 by seven communications industry veterans. 
+Step 3: The summary does not repeat any other information from the article. 
+
+Therefore, the summary is non-redundant with the corresponding article. 
+
+Yes.","Step 1: Identify the main points in the article.
+- Qualcomm was founded in 1985 by seven communications industry veterans.
+- One of Qualcomm's first products was OmniTRACS, introduced in 1988.
+- Qualcomm's patent portfolio includes approximately 6,100 US patents and patent applications for CDMA and related technologies.
+- More than 130 telecommunications equipment manufacturers worldwide have licensed Qualcomm's essential CDMA patents.
+- Qualcomm is listed among the S&P 500 Index, Fortune 500, and has won the US Department of Labor's ""Secretary of Labor's Opportunity Award.""
+- Qualcomm has been listed among Fortune's ""100 Best Companies to Work For in America"" for nine years in a row and the magazine's list of ""Most Admired Companies.""
+- Qualcomm's annual revenue for 2006 was $7.53 billion, with a net income of $2.47 billion.
+
+Step 2: Analyze the summary sentences.
+- ""Qualcomm's patent portfolio includes approximately 6,100 U.S. patents and patent applications for CDMA."" This sentence is a non-redundant statement from the article.
+- ""More than 130 telecommunications equipment manufacturers worldwide own its CDMA patents."" This sentence is a non-redundant statement from the article.
+- ""The company has been listed among Fortune 500's '100 Best Companies to Work For in America'."" This sentence is a non-redundant statement from the article.
+
+Step 3: Compare the summary sentences with the main points in the article.
+- The first summary sentence matches the main point about Qualcomm's patent portfolio.
+- The second summary sentence matches the main point about telecommunications equipment manufacturers licensing Qualcomm's CDMA patents.
+- The third summary sentence matches the main point about Qualcomm being listed among Fortune 500's ""100 Best Companies to Work For in America.""
+
+Conclusion: The summary is non-redundant with the corresponding article.
+
+Answer: Yes",The summary is redundant with the article. The summary sentence repeats the exact same information as the first sentence of the article.,"Step 1: Identify the key points in the article:
+- Qualcomm was founded in 1985 by seven communications industry veterans.
+- One of Qualcomm's first products was OmniTRACS, introduced in 1988.
+- Qualcomm's patent portfolio includes approximately 6,100 United States patents and patent applications for CDMA and related technologies.
+- More than 130 telecommunications equipment manufacturers worldwide have licensed QUALCOMM's essential CDMA patents.
+- Qualcomm is listed among Fortune's ""100 Best Companies to Work For in America"" and the magazine's list of ""Most Admired Companies.""
+- Qualcomm's annual revenue for 2006 was $7.53 billion.
+
+Step 2: Compare the key points in the article with the summary:
+- The summary mentions Qualcomm's patent portfolio, which is mentioned in the article.
+- The summary mentions Qualcomm being listed among Fortune's ""100 Best Companies to Work For in America,"" which is mentioned in the article.
+- The summary mentions Qualcomm's annual revenue for 2006, which is mentioned in the article.
+
+Step 3: Analyze if the summary is non-redundant with the article:
+The summary does not repeat any specific sentences or phrases from the article, but it does repeat the key points. It includes information about Qualcomm's patent portfolio, being listed among Fortune's ""100 Best Companies to Work For in America,"" and the annual revenue for 2006. However, the summary does not mention Qualcomm's founding in 1985 or the OmniTRACS product.
+
+Answer: No","Step 1: The article mentions that Qualcomm was founded in 1985 by seven communications industry veterans. 
+Step 2: The summary correctly states that Qualcomm was founded in 1985 by seven communications industry veterans. 
+
+Step 3: The article mentions that OmniTRACS is currently the largest satellite-based commercial mobile system for the transportation industry. 
+Step 4: The summary correctly states that OmniTRACS is the largest satellite-based commercial mobile system for the transportation industry. 
+
+Step 5: The article mentions that Qualcomm is among the members of the S&P 500 Index and Fortune 500. 
+Step 6: The summary correctly states that Qualcomm is among the members of the S&P 500 Index and Fortune 500. 
+
+Step 7: The article mentions that Qualcomm has been listed among Fortune's ""100 Best Companies to Work For in America."" 
+Step 8: The summary correctly states that Qualcomm has been listed among Fortune's ""100 Best Companies to Work For in America."" 
+
+Based on the step-by-step analysis, the summary does not repeat information from the article and is therefore non-redundant. 
+Answer: Yes","The summary is non-redundant with the corresponding article. It includes different information such as the revenue and net income for 2006, as well as the company's listing among Fortune's ""100 Best Companies to Work For in America""."
+"The summary is non-redundant with the corresponding article. 
+
+- The summary includes the information that AC Milan's Brazilian Kaka has been named European player of the year, which is the main focus of the article.
+- The summary also mentions that Kaka was a major factor in AC Milan's triumphant Champions League campaign, which is also mentioned in the article.
+- The summary includes the information that Manchester United's Cristiano Ronaldo was the runner-up and Barcelona's Lionel Messi finished third, which is mentioned in the article.
+- Lastly, the summary mentions that Kaka has already won all the game's major prizes, individually and collectively, which is mentioned in the article.","Step 1: Identify information in the article
+- AC Milan's Kaka has been named European player of the year.
+- Kaka has already won all the game's major prizes.
+- Kaka's success comes two years after Cristiano Ronaldo won the award.
+- Kaka was part of Brazil's 2002 World Cup winning squad.
+
+Step 2: Identify information in the summary
+- AC Milan's Kaka has been named European player of the year.
+- The 25-year-old has already won all the game's major prizes.
+- Kaka's success comes two years after his fellow countryman, Cristiano Ronaldo, won the award.
+- Kaka was part of Brazil's 2002 World Cup winning squad.
+
+Step 3: Compare the information
+The information in the summary is a direct repetition of the information in the article. The same facts and details are mentioned in both, without any additional or new information in the summary.
+
+Conclusion: The summary is redundant with the corresponding article. No","No, the summary is redundant with the corresponding article. The summary sentence ""ac milan ' s brazilian midfielder kaka named european player of the year"" is already mentioned in the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning: 
+- The summary states that the 25-year-old midfielder has won all of the game's major prizes, which is mentioned in the article.
+- The summary mentions that the midfielder was a major factor in AC Milan's triumphant Champions League campaign, which is also mentioned in the article.
+- The summary states that the runner-up for the award was Cristiano Ronaldo with Lionel Messi finishing third, which is also mentioned in the article.
+
+Answer: Yes","Step 1: The article states that AC Milan's Brazilian midfielder Kaka has been named European player of the year.
+Step 2: The summary accurately mentions that AC Milan's Brazilian midfielder Kaka has been named European player of the year.
+Step 3: The article mentions that the 25-year-old Kaka was a major factor in AC Milan's triumphant Champions League campaign.
+Step 4: The summary accurately mentions that the 25-year-old Kaka was a major factor in AC Milan's triumphant Champions League campaign.
+Step 5: The article states that Manchester United's Portuguese winger Cristiano Ronaldo was the runner-up.
+Step 6: The summary accurately mentions that Manchester United's Portuguese winger Cristiano Ronaldo was the runner-up.
+Step 7: The article mentions that Barcelona's Argentinian midfielder Lionel Messi finished third.
+Step 8: The summary accurately mentions that Barcelona's Argentinian midfielder Lionel Messi finished third.
+
+The summary accurately captures the main points of the article without repeating information. Therefore, the summary is non-redundant with the corresponding article. 
+Yes.","Step 1: Identify the main points in the article:
+- Kaka is named European player of the year.
+- He is chosen ahead of Cristiano Ronaldo and Lionel Messi.
+
+Step 2: Compare the main points in the article with the summary:
+- The summary includes the main points from the article without repeating any information.
+
+Step 3: Answer the question:
+- Yes, the summary is non-redundant with the corresponding article."
+"The summary is non-redundant with the article. 
+
+Reasoning:
+- The first sentence of the summary (""BUPA began as The British United Provident Association in 1947 to preserve freedom of choice in health care"") is directly taken from the article and provides information about the origins of BUPA.
+- The second sentence of the summary (""BUPA's biggest and original business is health insurance in the UK"") is also directly taken from the article and provides information about BUPA's main business.
+- The third sentence of the summary (""More than half of the UK's top companies are BUPA customers"") is directly taken from the article and provides information about the companies that use BUPA's services.
+- The fourth sentence of the summary (""The company's UK care homes offer specialist care to residents who include the elderly, the mentally ill"") is directly taken from the article and provides information about the types of care provided by BUPA's UK care homes.
+
+Therefore, the summary does not repeat any information from the article and is non-redundant. Answer: Yes.","Step 1: Identify the main points in the article.
+- BUPA is an international health and care company with bases on three continents and more than eight million customers.
+- BUPA began as The British United Provident Association in 1947 to preserve freedom of choice in health care.
+- BUPA initiated the Nuffield Homes Charitable Trust, later renamed Nuffield Hospitals, due to growing demand for health care and a lack of quality private accommodation.
+- BUPA's biggest and original business is health insurance in the UK, serving individuals and corporations.
+- BUPA's UK care homes offer specialist care to various types of residents.
+- BUPA is a leading healthcare company in multiple countries, including Spain, Australia, Ireland, Hong Kong, Thailand, Malta, and Saudi Arabia.
+- BUPA International provides health cover to expatriates in over 180 countries.
+- Sanitas, the BUPA business in Spain, has one million insured customers who have access to a network of 18,000 medical professionals and 450 medical centres.
+
+Step 2: Compare the main points in the article with the summary.
+- The summary includes the main points about BUPA being a leading healthcare company in multiple countries and having more than half of the UK's top companies as customers.
+- However, the summary does not mention BUPA's history, the initiation of the Nuffield Hospitals, BUPA's UK care homes, BUPA International's coverage for expatriates, and the details about Sanitas in Spain.
+
+Step 3: Determine if the summary is non-redundant with the article.
+- The summary only includes a subset of the main points in the article, and it does not repeat any specific information from the article.
+- Therefore, the summary is non-redundant with the article.
+
+Answer: Yes","The summary is redundant with the corresponding article. The summary sentence ""bupa began as the british united provident association in 1947"" is repeated verbatim from the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+- The summary mentions that BUPA is a leading healthcare company in several countries, which is mentioned in the article.
+- The summary also mentions that BUPA began as The British United Provident Association in 1947 to preserve freedom of choice in health care, which is also mentioned in the article.
+- Additionally, the summary mentions that BUPA believed there would still be a need for a complimentary service even with the introduction of a national health service, which is mentioned in the article.","Yes
+
+Reasoning:
+- The summary includes the information that BUPA began as The British United Provident Association in 1947, which is mentioned in the article.
+- The summary mentions that BUPA has bases on three continents and more than eight million customers, which is also mentioned in the article.
+- The summary states that BUPA is a leading healthcare company in various countries, including the UK, Spain, Australia, Ireland, Hong Kong, Thailand, Malta, and Saudi Arabia, which is mentioned in the article.","Yes
+
+Reasoning:
+- The summary accurately states that BUPA's biggest business is health insurance in the UK, which is mentioned in the article.
+- The summary also accurately states that more than half of the UK's top companies are BUPA customers, which is mentioned in the article.
+- The summary accurately states that BUPA International supplies health cover to expatriates in over 180 countries, which is mentioned in the article."
+"Yes.
+
+Reasoning:
+- The summary includes the main points from the article without repeating any information. 
+- It mentions the number of people in Britain who pose a threat due to support for al Qaeda-inspired terrorism, which is mentioned in the article.
+- It also mentions Jonathan Evans' statement about terrorists targeting young people and grooming them for acts of terrorism, which is also mentioned in the article.
+- Lastly, it includes the information about the number of terrorist convictions in Britain since 9/11, which is mentioned in the article.","The summary is non-redundant with the article. The summary includes the main points from the article, such as the warning about children being involved in terrorism, the number of people posing a threat in Britain, and the number of terrorist convictions since September 11. The summary does not repeat any specific information from the article.",The summary is non-redundant with the article. It captures the key point that children as young as 15 are involved in terrorist-related activity and that MI5 chief Jonathan Evans made this statement. It does not repeat any specific information from the article.,"Step 1: Identify the main points in the article.
+
+- Children as young as 15 are becoming involved in terrorist-related activity.
+- At least 2,000 people in Britain pose a threat to the country's security because of their support for al Qaeda-inspired terrorism.
+- Terrorists are targeting young people and children, radicalizing and grooming them for acts of terrorism.
+- The figure of 2,000 only includes known individuals, and the actual number could be higher.
+- There have been 200 terrorist convictions in Britain since the September 11 attacks.
+- Al Qaeda's remaining core leadership in the tribal areas of Pakistan has been a source of command and inspiration for attack planning in the UK.
+- Over the last 12 months, terrorist plots on British soil have been increasingly inspired by al Qaeda cadres in other countries, including Iraq and East Africa.
+- Al Qaeda in Iraq aspires to promote terrorist attacks outside Iraq, and there is training activity and terrorist planning in East Africa focused on the UK.
+- There has been no decrease in the number of Russian covert intelligence officers operating in Britain since the end of the Cold War.
+- Resources that could be devoted to counter-terrorism are being used to protect against spying by Russia, China, and others.
+
+Step 2: Compare the summary sentences with the main points.
+
+- The first summary sentence, ""at least 2,000 people in Britain pose a threat to the country's security,"" accurately reflects one of the main points in the article.
+- The second summary sentence, ""he said there had been 200 terrorist convictions in Britain since the 9/11 attacks,"" accurately reflects another main point in the article.
+- The third summary sentence, ""the head of the MI5 said terrorists are 'radicalising, indoctrinating and grooming young, vulnerable people,'"" accurately reflects the main point about terrorists targeting and grooming young people.
+
+Step 3: Determine if the summary is non-redundant with the article.
+
+The summary sentences do not repeat any specific information from the article. They provide a concise overview of the main points without repeating details or examples mentioned in the article.
+
+Answer: Yes","Step 1: MI5 chief says at least 2,000 people in Britain pose a threat to security. 
+The article states that ""at least 2,000 people in Britain pose a threat to the country's security because of their support for al Qaeda-inspired terrorism."" This sentence accurately reflects the information in the article.
+
+Step 2: Jonathan Evans says the actual number could be double that figure. 
+The article states that the figure of 2,000 people ""only included those the intelligence services knew about and that the actual number could be double."" This sentence accurately reflects the information in the article.
+
+Step 3: There had been 200 terrorist convictions in Britain since the 9/11 attacks. 
+The article states that there have been ""200 terrorist convictions in Britain since the September 11 attacks."" This sentence accurately reflects the information in the article.
+
+Step 4: He said resources were being used to protect Britain against spying. 
+The article mentions that resources were being used to protect Britain against spying by Russia, China, and others. This sentence accurately reflects the information in the article.
+
+The summary accurately reflects the information in the article without repeating any information. Therefore, the answer is yes, the summary is non-redundant with the corresponding article.","Yes
+
+- The summary includes the information that children as young as 15 are involved in terrorist-related activity, which is stated in the article.
+- The summary also mentions that at least 2,000 people in Britain pose a threat to security, which is also stated in the article.
+- Lastly, the summary includes Evans' statement about terrorists ""radicalising, indoctrinating and grooming"" young people, which is mentioned in the article."
+"Yes
+
+Reasoning:
+- The summary mentions that Mauro Camoranesi scored with 13 minutes left to earn Juventus a 1-1 home draw with Inter Milan, which is mentioned in the article.
+- The summary also mentions that Julio Cruz had given Inter Milan the lead in the first half with a first-half strike, which is mentioned in the article.
+- Finally, the summary mentions that the result means Inter retain their unbeaten record this season, two points clear of Fiorentina, which is mentioned in the article.","The summary is non-redundant with the corresponding article. 
+
+Reasoning:
+1. The summary mentions that Mauro Camoranesi scored with 13 minutes left to earn Juventus a 1-1 draw with Inter Milan. This information is mentioned in the article.
+2. The summary states that the defending champions are two points clear of Fiorentina at the top of the table. This information is also mentioned in the article.
+3. The summary mentions that Roma missed out on the chance to close the gap on Inter after a late collapse. This information is also mentioned in the article.
+4. The summary does not repeat any information already mentioned in the article. 
+
+Therefore, the summary is non-redundant with the corresponding article.","Yes
+
+Reasoning:
+- The summary accurately states that Juventus earned a 1-1 draw with Inter Milan.
+- The summary does not repeat any specific details or information from the article.","Step 1: Identify the main points in the article:
+- Mauro Camoranesi scores with 13 minutes left to earn Juventus a 1-1 draw with Inter Milan.
+- Inter Milan took a first-half lead with a goal from Julio Cruz.
+- Despite injury problems, Inter Milan retains their unbeaten record this season.
+- Inter Milan is two points clear of Fiorentina at the top of the table.
+- Juventus is in fourth place.
+
+Step 2: Compare the main points in the article with the summary:
+- The summary mentions that Mauro Camoranesi scored to earn Juventus a 1-1 draw with Inter Milan, which is a main point in the article.
+- The summary mentions that the defending champions (Inter Milan) are two points clear of Fiorentina at the top of the table, which is also a main point in the article.
+
+Step 3: Evaluate if there is redundancy between the article and the summary:
+- The summary does not repeat any specific information from the article. It only includes the main points without duplicating any details.
+
+Conclusion: The summary is non-redundant with the corresponding article.
+
+Answer: Yes","Yes
+
+Reasoning:
+- The summary mentions Juventus earning a 1-1 draw with Inter Milan, which is mentioned in the article.
+- The summary mentions Mauro Camoranesi scoring with 13 minutes left to earn Juventus a point, which is mentioned in the article.
+- The summary mentions Inter retaining their unbeaten record despite injury problems, which is mentioned in the article.
+- The summary mentions Roma missing the chance to close the gap on Inter and throwing away a two-goal lead, which is mentioned in the article.","Yes
+
+Reasoning:
+- The summary mentions that Mauro Camoranesi earned Juventus a 1-1 draw with Inter Milan, which is the main focus of the article.
+- It also mentions that Julio Cruz had given Inter the lead in the first half, which is a key detail from the article.
+- Finally, it states that the result leaves Inter two points clear of Fiorentina at the top of the table, which is another important piece of information from the article."
